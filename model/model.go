@@ -1,6 +1,12 @@
 // model.go
 package model
 
-import ()
+import (
+	_ "os"
+)
 
-type FileInfo struct{}
+type FileInfo struct {
+	Parent *FileInfo
+	Path   string
+	Size   int64
+}
