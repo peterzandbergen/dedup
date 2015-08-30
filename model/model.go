@@ -14,6 +14,7 @@ type ScanRoot struct {
 	Files    FileInfoList
 }
 
+// String returns a printable presentation of the scanroot, including the files.
 func (sr *ScanRoot) String() string {
 	var b bytes.Buffer
 
@@ -21,8 +22,9 @@ func (sr *ScanRoot) String() string {
 	return b.String()
 }
 
+// FileInfo contains the
 type FileInfo struct {
-	Parent *ScanRoot
+	Parent *ScanRoot `json:"-"`
 
 	Name    string
 	Size    int64

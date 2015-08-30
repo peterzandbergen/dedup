@@ -1,0 +1,16 @@
+{
+  "Path": "scanRoot",
+  "ScanDate": "0001-01-01T00:00:00Z",
+  "Files": [
+    {
+      "Name": "testname",
+      "Size": 0,
+      "ModTime": "2015-08-30T22:06:39.0259405+02:00"
+    },
+    {
+      "Name": "testname",
+      "Size": 0,
+      "ModTime": "2015-08-30T22:06:39.0259405+02:00"
+    }
+  ]
+}

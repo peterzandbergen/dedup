@@ -1,7 +1,10 @@
 package model
 
 import (
+	"encoding/json"
+	"os"
 	"testing"
+	"time"
 )
 
 func TestOne(t *testing.T) {
@@ -55,5 +58,59 @@ func TestFileInfoListAppendString(t *testing.T) {
 
 	if len(fil) != 1 {
 		t.Errorf("Exptected %d, got %d", 1, len(fil))
+	}
+}
+
+func TestMarshalToJson(t *testing.T) {
+	var s = "testname"
+
+	root := &ScanRoot{
+		Path: "scanRoot",
+	}
+
+	fi := &FileInfo{
+		Parent:  root,
+		Name:    s,
+		ModTime: time.Now(),
+	}
+
+	root.Files = append(root.Files, fi, fi)
+
+	b, err := json.MarshalIndent(root, "", "  ")
+	if err != nil {
+		t.Errorf("Error marshalling scanroot: %s", err.Error())
+	}
+	_ = b
+	// t.Logf("\n%s", string(b))
+}
+
+func TestMarshalToJsonFile(t *testing.T) {
+	var s = "testname"
+
+	root := &ScanRoot{
+		Path: "scanRoot",
+	}
+
+	fi := &FileInfo{
+		Parent:  root,
+		Name:    s,
+		ModTime: time.Now(),
+	}
+
+	root.Files = append(root.Files, fi, fi)
+
+	b, err := json.MarshalIndent(root, "", "  ")
+	if err != nil {
+		t.Errorf("Error marshalling scanroot: %s", err.Error())
+	}
+	// t.Logf("\n%s", string(b))
+
+	if f, err := os.Create("scanModel.json.txt"); err == nil {
+		defer f.Close()
+		if _, err := f.Write(b); err != nil {
+			t.Errorf("Error writing to file: %s", err.Error())
+		}
+	} else {
+		t.Errorf("Error creating scanmodel.json.txt: %s", err.Error())
 	}
 }

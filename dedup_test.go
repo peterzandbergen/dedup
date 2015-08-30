@@ -34,7 +34,7 @@ func TestScanDirectory(t *testing.T) {
 		t.Fatal("first element in res is nil")
 	}
 
-	t.Logf("Root %s contains %d elements", root.Files, len(root.Files))
+	// t.Logf("Root %s contains %d elements", root.Files, len(root.Files))
 	// t.Logf("%s", res[0].Name)
 	// t.Log(res.String())
 
