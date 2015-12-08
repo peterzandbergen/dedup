@@ -151,7 +151,7 @@ func HashEquals(equals []model.EqualSize) {
 	h := sha1.New()
 	for _, es := range equals {
 		for _, fs := range es.Files {
-			if id, err := hasher.HashFile(h, fs.Name); err != nil {
+			if id, err := hasher.HashFile(h, fs.Name); err == nil {
 				fs.Hash = id
 			}
 		}
