@@ -22,17 +22,19 @@ func (sr *ScanRoot) String() string {
 	return b.String()
 }
 
-// FileInfo contains the
+// FileInfo contains the info about the file, Size and ModTime.
 type FileInfo struct {
 	Parent *ScanRoot `json:"-"`
 
 	Name    string
 	Size    int64
 	ModTime time.Time
+	Hash    string
 }
 
 func (fi *FileInfo) String() string {
-	return fi.Name
+	return fmt.Sprintf("[%12d] %s", fi.Size, fi.Name)
+	return ""
 }
 
 type FileInfoList []*FileInfo

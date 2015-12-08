@@ -8,14 +8,14 @@ import (
 	"time"
 )
 
-func ScanTree(root *model.ScanRoot) error {
+func ScanTree(root *model.ScanRoot, largerThan int64) error {
 	// Define the walk func.
 	// Appends the found files to the files list.
 	var w = func(path string, info os.FileInfo, err error) error {
 		if err != nil {
 			return nil
 		}
-		if info.Mode().IsRegular() {
+		if info.Mode().IsRegular() && info.Size() > largerThan {
 			fi := &model.FileInfo{
 				Name:    path,
 				Size:    info.Size(),

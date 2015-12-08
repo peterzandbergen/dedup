@@ -1,0 +1,2559 @@
+Scanning Z:\Family Pictures...done, scan took 7m1.5872182s to run.
+done.
+Looking for doubles...done
+Looking for doubles took 57.9853ms to run.
+
+Size: 33
+[          33] Z:\Family Pictures\De uitvoering\Picasa.ini
+[          33] Z:\Family Pictures\Goldy en Hobbes\Picasa.ini
+[          33] Z:\Family Pictures\Pannetjes eten\Picasa.ini
+Size: 48
+[          48] Z:\Family Pictures\Benno\.picasa.ini
+[          48] Z:\Family Pictures\Tangram Kerst 2007\album\res\dot.gif
+Size: 49
+[          49] Z:\Family Pictures\Hobbes\.picasa.ini
+[          49] Z:\Family Pictures\Rudolf\.picasa.ini
+[          49] Z:\Family Pictures\Visjes\Picasa.ini
+[          49] Z:\Family Pictures\Zeilen\.picasa.ini
+Size: 50
+[          50] Z:\Family Pictures\De tuin\.picasa.ini
+[          50] Z:\Family Pictures\Filmpje\.picasa.ini
+[          50] Z:\Family Pictures\Spektro\.picasa.ini
+Size: 53
+[          53] Z:\Family Pictures\Gaby thuis\.picasa.ini
+[          53] Z:\Family Pictures\Goldy 2010\.picasa.ini
+[          53] Z:\Family Pictures\Hout halen\.picasa.ini
+[          53] Z:\Family Pictures\Oog Jochem\.picasa.ini
+[          53] Z:\Family Pictures\Oude Piano\.picasa.ini
+[          53] Z:\Family Pictures\TV Avondje\.picasa.ini
+Size: 54
+[          54] Z:\Family Pictures\Elijah 2012\.picasa.ini
+[          54] Z:\Family Pictures\Kat en hond\.picasa.ini
+[          54] Z:\Family Pictures\Verplaatsen\.picasa.ini
+Size: 55
+[          55] Z:\Family Pictures\1 April 2011\.picasa.ini
+[          55] Z:\Family Pictures\De huiskamer\.picasa.ini
+[          55] Z:\Family Pictures\Kerst 2011 1\.picasa.ini
+[          55] Z:\Family Pictures\Lis Zoe Anne\.picasa.ini
+[          55] Z:\Family Pictures\Thuis foto's\.picasa.ini
+[          55] Z:\Family Pictures\Voeten Peter\.picasa.ini
+[          55] Z:\Family Pictures\Zoek de mees\.picasa.ini
+Size: 56
+[          56] Z:\Family Pictures\Astra te koop\.picasa.ini
+[          56] Z:\Family Pictures\Dolfijnen Lis\.picasa.ini
+[          56] Z:\Family Pictures\Escher puzzle\.picasa.ini
+[          56] Z:\Family Pictures\Mijn Vrouw!!!\.picasa.ini
+[          56] Z:\Family Pictures\Pietensleutel\.picasa.ini
+[          56] Z:\Family Pictures\Schatsleutels\.picasa.ini
+[          56] Z:\Family Pictures\Straatverkoop\.picasa.ini
+[          56] Z:\Family Pictures\Tekenbeet Lis\.picasa.ini
+Size: 57
+[          57] Z:\Family Pictures\Feest Lis 2010\.picasa.ini
+[          57] Z:\Family Pictures\Filmpje kijken\.picasa.ini
+[          57] Z:\Family Pictures\Kerst 123 2014\.picasa.ini
+[          57] Z:\Family Pictures\Pietercup 2014\.picasa.ini
+[          57] Z:\Family Pictures\Thuis Jan 2013\.picasa.ini
+[          57] Z:\Family Pictures\Vijver en Hond\.picasa.ini
+[          57] Z:\Family Pictures\Wortel is hier\.picasa.ini
+Size: 58
+[          58] Z:\Family Pictures\Hondenhok maken\.picasa.ini
+[          58] Z:\Family Pictures\Jochem en Viggo\.picasa.ini
+[          58] Z:\Family Pictures\Jochem tafelhut\.picasa.ini
+[          58] Z:\Family Pictures\Katten mei 2014\.picasa.ini
+[          58] Z:\Family Pictures\Kerstavond 2011\Kerstavond 2011\.picasa.ini
+[          58] Z:\Family Pictures\Kerstavond 2014\.picasa.ini
+[          58] Z:\Family Pictures\Kittens geboren\.picasa.ini
+[          58] Z:\Family Pictures\Militair Museum\.picasa.ini
+[          58] Z:\Family Pictures\Sneeuw jan 2015\.picasa.ini
+[          58] Z:\Family Pictures\Zeekaart Wadden\.picasa.ini
+Size: 59
+[          59] Z:\Family Pictures\Beest op de muur\Picasa.ini
+[          59] Z:\Family Pictures\Goldy met hoedje\.picasa.ini
+[          59] Z:\Family Pictures\Hobbes op kussen\.picasa.ini
+[          59] Z:\Family Pictures\Kapla kunst 2010\.picasa.ini
+[          59] Z:\Family Pictures\Pakjesavond 2014\.picasa.ini
+[          59] Z:\Family Pictures\Sinterklaas 2010\.picasa.ini
+Size: 60
+[          60] Z:\Family Pictures\Halloween pompoen\.picasa.ini
+[          60] Z:\Family Pictures\Kippen april 2014\.picasa.ini
+[          60] Z:\Family Pictures\Plankenboom maken\.picasa.ini
+[          60] Z:\Family Pictures\Schoenzetten 2014\.picasa.ini
+Size: 61
+[          61] Z:\Family Pictures\De Waskelder Nieuw\.picasa.ini
+[          61] Z:\Family Pictures\Jochem slaapt 2011\.picasa.ini
+[          61] Z:\Family Pictures\Kerst Tangram 2014\.picasa.ini
+[          61] Z:\Family Pictures\Kittens 1 week oud\.picasa.ini
+[          61] Z:\Family Pictures\LSZK B Venray 2010\.picasa.ini
+[          61] Z:\Family Pictures\Sinterklaas 2010-1\.picasa.ini
+Size: 62
+[          62] Z:\Family Pictures\Kaartenhuis van Lis\.picasa.ini
+[          62] Z:\Family Pictures\Kittens in de bocht\.picasa.ini
+[          62] Z:\Family Pictures\Maartje met olifant\.picasa.ini
+[          62] Z:\Family Pictures\Pipowagen inrichten\.picasa.ini
+[          62] Z:\Family Pictures\Sneeuwkonijnen 2010\.picasa.ini
+[          62] Z:\Family Pictures\Ziva onder de tafel\.picasa.ini
+Size: 63
+[          63] Z:\Family Pictures\Hoela en Hoep slapen\.picasa.ini
+[          63] Z:\Family Pictures\Jochem Emma Liv 2015\.picasa.ini
+[          63] Z:\Family Pictures\Kampvuur met Henry's\.picasa.ini
+[          63] Z:\Family Pictures\Lis en Elina chillen\.picasa.ini
+[          63] Z:\Family Pictures\Surprise Jochem 2014\.picasa.ini
+[          63] Z:\Family Pictures\Techniek 16 nov 2009\.picasa.ini
+Size: 64
+[          64] Z:\Family Pictures\Hoela en Hoep zijn er\.picasa.ini
+[          64] Z:\Family Pictures\Jochem en Opa Schaken\.picasa.ini
+[          64] Z:\Family Pictures\Jochem mag met kleren\.picasa.ini
+[          64] Z:\Family Pictures\Lente met dieren 2014\.picasa.ini
+[          64] Z:\Family Pictures\Slaapfeestje Lis 2015\.picasa.ini
+[          64] Z:\Family Pictures\Tangram surprise 2010\.picasa.ini
+[          64] Z:\Family Pictures\Zelf gemaakte Pizza's\.picasa.ini
+Size: 65
+[          65] Z:\Family Pictures\Etentje met de Henry's\.picasa.ini
+[          65] Z:\Family Pictures\Het gaat goed met Ziva\.picasa.ini
+[          65] Z:\Family Pictures\Hoela en Hoep met Anne\.picasa.ini
+[          65] Z:\Family Pictures\Jochem en Maartje 2009\.picasa.ini
+[          65] Z:\Family Pictures\Jochem in de tuin 2013\.picasa.ini
+[          65] Z:\Family Pictures\Jochem in de werkkamer\.picasa.ini
+[          65] Z:\Family Pictures\Jochem zoekt mineralen\.picasa.ini
+[          65] Z:\Family Pictures\Meidoorn in bloei 2014\.picasa.ini
+[          65] Z:\Family Pictures\Mia Logeert Maart 2013\.picasa.ini
+[          65] Z:\Family Pictures\Omi op bezoek aug 2013\.picasa.ini
+[          65] Z:\Family Pictures\Oud en Nieuw 2014-2015\.picasa.ini
+Size: 66
+[          66] Z:\Family Pictures\Amsterdam December 2011\.picasa.ini
+[          66] Z:\Family Pictures\Dood klein nijntje 2011\.picasa.ini
+[          66] Z:\Family Pictures\Kerststukjes maken 2012\.picasa.ini
+[          66] Z:\Family Pictures\Mama met Vlecht van Lis\.picasa.ini
+[          66] Z:\Family Pictures\Mooie nagels hoor\Picasa.ini
+[          66] Z:\Family Pictures\Nieuwe Canon Test Fotos\.picasa.ini
+[          66] Z:\Family Pictures\Synchro afsluiting 2010\.picasa.ini
+Size: 67
+[          67] Z:\Family Pictures\Honden in de sneeuw 2010\.picasa.ini
+[          67] Z:\Family Pictures\Nieuwjaar bij de Henry's\.picasa.ini
+[          67] Z:\Family Pictures\Verjaardag Jochem 2009-3\Picasa.ini
+[          67] Z:\Family Pictures\Verjaardagscake Lis 2014\.picasa.ini
+[          67] Z:\Family Pictures\Weeksluiting Jochem 2013\.picasa.ini
+[          67] Z:\Family Pictures\Zeilles\.picasa.ini
+Size: 68
+[          68] Z:\Family Pictures\Hoela en Hoep 14 feb 2013\.picasa.ini
+[          68] Z:\Family Pictures\Hoela en Hoep 17 feb 2013\.picasa.ini
+[          68] Z:\Family Pictures\Jochem en Winand mei 2014\.picasa.ini
+[          68] Z:\Family Pictures\Lieve Briefjes van Jochem\.picasa.ini
+[          68] Z:\Family Pictures\Pannenkoekenbakker Jochem\.picasa.ini
+[          68] Z:\Family Pictures\Surprise Lis Hockeer 2014\.picasa.ini
+Size: 69
+[          69] Z:\Family Pictures\Kannen\Picasa.ini
+[          69] Z:\Family Pictures\THuis fotos 27-29 jan 2011\.picasa.ini
+Size: 70
+[          70] Z:\Family Pictures\Carnaval Kinderoptocht 2015\.picasa.ini
+[          70] Z:\Family Pictures\Thuis fotos 26 januari 2011\.picasa.ini
+[          70] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\.picasa.ini
+Size: 71
+[          71] Z:\Family Pictures\BBQ Laatste dag van Mei 2014\.picasa.ini
+[          71] Z:\Family Pictures\Koffers\.picasa.ini
+[          71] Z:\Family Pictures\Weeksluiting Lis 21 mei 2010\.picasa.ini
+Size: 72
+[          72] Z:\Family Pictures\Fun training\.picasa.ini
+[          72] Z:\Family Pictures\Liv Logeren Feb 2015 Carnaval\.picasa.ini
+[          72] Z:\Family Pictures\Verjaardag Gaby en Peter 2014\.picasa.ini
+Size: 73
+[          73] Z:\Family Pictures\Jochem slaapt met blote billen\.picasa.ini
+[          73] Z:\Family Pictures\Kwarktaart maken met vriendjes\.picasa.ini
+[          73] Z:\Family Pictures\Weeksluiting Lis december 2011\.picasa.ini
+Size: 74
+[          74] Z:\Family Pictures\Goldy en Hobbes\.picasa.ini
+[          74] Z:\Family Pictures\J6E1 Hockey Teambuilding Sessie\.picasa.ini
+[          74] Z:\Family Pictures\Lis maakt spreekbeurt Noordpool\.picasa.ini
+[          74] Z:\Family Pictures\Sinterklaas Jochem Hockeer 2014\.picasa.ini
+Size: 75
+[          75] Z:\Family Pictures\Breakdance 2014\.picasa.ini
+[          75] Z:\Family Pictures\Ladies only verjaardag Gaby 2010\.picasa.ini
+[          75] Z:\Family Pictures\Lis 2004-09\.picasa.ini
+Size: 76
+[          76] Z:\Family Pictures\Jochem Patat\.picasa.ini
+[          76] Z:\Family Pictures\Wortel en Flappie\.picasa.ini
+[          76] Z:\Family Pictures\Ziva met bot\.picasa.ini
+Size: 77
+[          77] Z:\Family Pictures\Bank te koop\Picasa.ini
+[          77] Z:\Family Pictures\Pipo wagen hijsen\.picasa.ini
+Size: 78
+[          78] Z:\Family Pictures\Molenhuis 2012\.picasa.ini
+[          78] Z:\Family Pictures\Pipo wagen gekocht\.picasa.ini
+Size: 79
+[          79] Z:\Family Pictures\Verjaardag Jochem 2009 kleine camera\.picasa.ini
+[          79] Z:\Family Pictures\Wortel doet het goed\.picasa.ini
+Size: 80
+[          80] Z:\Family Pictures\Backup Camera Groot 20150502\Lis naar London 2015\.picasa.ini
+[          80] Z:\Family Pictures\Zeilkamp Jochem 2013\.picasa.ini
+Size: 83
+[          83] Z:\Family Pictures\Diplomazwemmen A Lis\Picasa.ini
+[          83] Z:\Family Pictures\Fotos van Christian\.picasa.ini
+[          83] Z:\Family Pictures\Mosam Skiffle Group\.picasa.ini
+Size: 93
+[          93] Z:\Family Pictures\Lis maakt spiegels\Picasa.ini
+[          93] Z:\Family Pictures\Lis naar de film met Omi\Picasa.ini
+[          93] Z:\Family Pictures\Winnetou 2014\.picasa.ini
+[          93] Z:\Family Pictures\XMas 2005 (27 dec)\Picasa.ini
+Size: 98
+[          98] Z:\Family Pictures\Beestje op de muur\Picasa.ini
+[          98] Z:\Family Pictures\Lis met Hoela op de rug en zo 2013\.picasa.ini
+Size: 102
+[         102] Z:\Family Pictures\Huis\Picasa.ini
+[         102] Z:\Family Pictures\Tangram Groep 1-2b\Picasa.ini
+Size: 104
+[         104] Z:\Family Pictures\Halloween 2014\.picasa.ini
+[         104] Z:\Family Pictures\Lis boom bloeit 2006\Picasa.ini
+Size: 105
+[         105] Z:\Family Pictures\Filmpje Zwemmen\.picasa.ini
+[         105] Z:\Family Pictures\Randwyck APA HQ\.picasa.ini
+Size: 106
+[         106] Z:\Family Pictures\Alle katten\.picasa.ini
+[         106] Z:\Family Pictures\Daan\Picasa.ini
+Size: 114
+[         114] Z:\Family Pictures\Bever in de beemden\.picasa.ini
+[         114] Z:\Family Pictures\Tuin taferelen\Picasa.ini
+Size: 117
+[         117] Z:\Family Pictures\Photosynth sessie, naar Mesch\Picasa.ini
+[         117] Z:\Family Pictures\Prive pictures\.picasa.ini
+[         117] Z:\Family Pictures\Zwemwedstrijd Lis 2012\.picasa.ini
+Size: 120
+[         120] Z:\Family Pictures\Anja's Promotie\.picasa.ini
+[         120] Z:\Family Pictures\Enge buren\Picasa.ini
+[         120] Z:\Family Pictures\Terras en vijver 2013\.picasa.ini
+Size: 122
+[         122] Z:\Family Pictures\Fietstochtje 1e keer Jochem\.picasa.ini
+[         122] Z:\Family Pictures\Import Nikon 2014-07-25\100NIKON\.picasa.ini
+[         122] Z:\Family Pictures\Mendel Attacks\.picasa.ini
+Size: 128
+[         128] Z:\Family Pictures\Elina op bezoek\Picasa.ini
+[         128] Z:\Family Pictures\Te koop uit de kelder\Picasa.ini
+Size: 156
+[         156] Z:\Family Pictures\Jochem met potloden\Picasa.ini
+[         156] Z:\Family Pictures\Lis Kapla\.picasa.ini
+[         156] Z:\Family Pictures\Sneeuw 2012\.picasa.ini
+Size: 163
+[         163] Z:\Family Pictures\Carnaval 2008\Picasa.ini
+[         163] Z:\Family Pictures\Kunst van Jochem 2013\.picasa.ini
+Size: 164
+[         164] Z:\Family Pictures\Kittens op bureau\.picasa.ini
+[         164] Z:\Family Pictures\Mammafiets te koop\.picasa.ini
+Size: 175
+[         175] Z:\Family Pictures\Lekkere kwarktaart\Picasa.ini
+[         175] Z:\Family Pictures\Scans\Picasa.ini
+[         175] Z:\Family Pictures\Vliegveld Beek\Picasa.ini
+Size: 185
+[         185] Z:\Family Pictures\Kado voor Marsja maken\.picasa.ini
+[         185] Z:\Family Pictures\Malle fotoos jul 2010\.picasa.ini
+[         185] Z:\Family Pictures\Tweede kattennest 2014\.picasa.ini
+Size: 189
+[         189] Z:\Family Pictures\Elly en Dounya\Picasa.ini
+[         189] Z:\Family Pictures\Jochem Diploma C Fotos\.picasa.ini
+Size: 208
+[         208] Z:\Family Pictures\Pasen 2013\.picasa.ini
+[         208] Z:\Family Pictures\Terug van schoolreisje Tangram 2009\Picasa.ini
+Size: 214
+[         214] Z:\Family Pictures\Lis maakt muffins voor school 2013\.picasa.ini
+[         214] Z:\Family Pictures\Wormen zoeken\Picasa.ini
+Size: 218
+[         218] Z:\Family Pictures\Jochem in de Sneeuw 2013\.picasa.ini
+[         218] Z:\Family Pictures\Slijm Gaby\Picasa.ini
+Size: 219
+[         219] Z:\Family Pictures\Sinterklaas bij Opa\Picasa.ini
+[         219] Z:\Family Pictures\Tuinpret 16 mei 2008\Picasa.ini
+Size: 221
+[         221] Z:\Family Pictures\Trein experiment\.picasa.ini
+[         221] Z:\Family Pictures\Verjaardag Jochem 2013\.picasa.ini
+Size: 225
+[         225] Z:\Family Pictures\De vijver die niet doorging\Picasa.ini
+[         225] Z:\Family Pictures\Oefenen Zwemdiploma A\Picasa.ini
+Size: 239
+[         239] Z:\Family Pictures\Blokken\.picasa.ini
+[         239] Z:\Family Pictures\Daan, Antoinette en Jolie\Picasa.ini
+Size: 241
+[         241] Z:\Family Pictures\Avondrood 2012\.picasa.ini
+[         241] Z:\Family Pictures\Lis knutselt\.picasa.ini
+[         241] Z:\Family Pictures\Sint en Piet\.picasa.ini
+Size: 243
+[         243] Z:\Family Pictures\Verjaardag Jochem 2009 kleine camera 2\.picasa.ini
+[         243] Z:\Family Pictures\Ziva\.picasa.ini
+Size: 244
+[         244] Z:\Family Pictures\Lis in Maastricht\.picasa.ini
+[         244] Z:\Family Pictures\Natuurfotografie Lis 2015-07-12\.picasa.ini
+[         244] Z:\Family Pictures\Pas op een hond\.picasa.ini
+Size: 245
+[         245] Z:\Family Pictures\Hobbes op schoot\.picasa.ini
+[         245] Z:\Family Pictures\Konijnen nest 2012\.picasa.ini
+[         245] Z:\Family Pictures\Lis maakt surprise\.picasa.ini
+[         245] Z:\Family Pictures\Schort voor papa\.picasa.ini
+Size: 246
+[         246] Z:\Family Pictures\Chillen op zolder\.picasa.ini
+[         246] Z:\Family Pictures\Hobbes in boomhut\.picasa.ini
+Size: 247
+[         247] Z:\Family Pictures\Hartjes pannenkoek\.picasa.ini
+[         247] Z:\Family Pictures\Jochem doet mal\.picasa.ini
+Size: 249
+[         249] Z:\Family Pictures\Dames ontbijt op bed 1\.picasa.ini
+[         249] Z:\Family Pictures\Dames ontbijt op bed\.picasa.ini
+[         249] Z:\Family Pictures\Hartjes Lis Jonathan\.picasa.ini
+Size: 251
+[         251] Z:\Family Pictures\Kamperen in de tuin\.picasa.ini
+[         251] Z:\Family Pictures\Lis Foto Shoot\.picasa.ini
+[         251] Z:\Family Pictures\Weeksluiting Jochem\.picasa.ini
+Size: 252
+[         252] Z:\Family Pictures\Lis eigen spaarrekening\.picasa.ini
+[         252] Z:\Family Pictures\Mussenstraat bewoond\.picasa.ini
+[         252] Z:\Family Pictures\Zeilexamen Lis 2010 CWO I\.picasa.ini
+Size: 253
+[         253] Z:\Family Pictures\Dierentuin 10 mei 2006\Picasa.ini
+[         253] Z:\Family Pictures\Grote petten\Picasa.ini
+Size: 254
+[         254] Z:\Family Pictures\Jochem douchemuts 2010\.picasa.ini
+[         254] Z:\Family Pictures\Jochem is fotograaf\.picasa.ini
+[         254] Z:\Family Pictures\Verjaardagfeestje Gaby 2011\.picasa.ini
+Size: 263
+[         263] Z:\Family Pictures\Jochem op onderzoek\Picasa.ini
+[         263] Z:\Family Pictures\Toetje voor de open haard nov 2011\.picasa.ini
+Size: 280
+[         280] Z:\Family Pictures\Ballet Lis\Picasa.ini
+[         280] Z:\Family Pictures\Nieuwe bed van Lis\Picasa.ini
+Size: 295
+[         295] Z:\Family Pictures\Eekhoorntje\.picasa.ini
+[         295] Z:\Family Pictures\Thuis 4 maart 2006\Picasa.ini
+Size: 296
+[         296] Z:\Family Pictures\Carnavals kleding passen\Picasa.ini
+[         296] Z:\Family Pictures\Lis en jochem in de keuken\Picasa.ini
+[         296] Z:\Family Pictures\Schoen gezet 2010\.picasa.ini
+Size: 297
+[         297] Z:\Family Pictures\De nieuwe tent op de Gastmolen\.picasa.ini
+[         297] Z:\Family Pictures\Jochem en Goldy\Picasa.ini
+Size: 299
+[         299] Z:\Family Pictures\Kerst 2011\.picasa.ini
+[         299] Z:\Family Pictures\Thuis 27 september 2007\Picasa.ini
+Size: 301
+[         301] Z:\Family Pictures\desktop.ini
+[         301] Z:\Family Pictures\Klussen\Picasa.ini
+Size: 302
+[         302] Z:\Family Pictures\Lis en Ziva 2011\.picasa.ini
+[         302] Z:\Family Pictures\Paasknutsel 2010\.picasa.ini
+Size: 303
+[         303] Z:\Family Pictures\Banden plakken\.picasa.ini
+[         303] Z:\Family Pictures\Sinterklaas 2011\.picasa.ini
+Size: 304
+[         304] Z:\Family Pictures\Flappie en Beertje\.picasa.ini
+[         304] Z:\Family Pictures\Thuis april-mei 2012\.picasa.ini
+[         304] Z:\Family Pictures\Zeilen op het randje\.picasa.ini
+Size: 306
+[         306] Z:\Family Pictures\Dobber maiden voyage\.picasa.ini
+[         306] Z:\Family Pictures\Fam Geurts op de lunch\Picasa.ini
+[         306] Z:\Family Pictures\Lunch met de Henry's\.picasa.ini
+Size: 319
+[         319] Z:\Family Pictures\Jochem op de fiets naar school\.picasa.ini
+[         319] Z:\Family Pictures\USA2014\.picasa.ini
+Size: 322
+[         322] Z:\Family Pictures\Kasteel Hoensbroek met 12b Jochem\.picasa.ini
+[         322] Z:\Family Pictures\Tangram Heksenfeest 12b 14 nov 2007\Picasa.ini
+Size: 355
+[         355] Z:\Family Pictures\Mecano Auto\.picasa.ini
+[         355] Z:\Family Pictures\Zeilkamp Lis\.picasa.ini
+Size: 358
+[         358] Z:\Family Pictures\Natuurfotografie Lis 2015-05-24\.picasa.ini
+[         358] Z:\Family Pictures\Natuurfotografie Lis 2015-06-12\.picasa.ini
+Size: 363
+[         363] Z:\Family Pictures\De nieuwe tent op de Gastmolen\Picasa.ini
+[         363] Z:\Family Pictures\Lis maak kijkdoos voor Jochem\Picasa.ini
+Size: 366
+[         366] Z:\Family Pictures\Kersthuisje bouwen 2009\.picasa.ini
+[         366] Z:\Family Pictures\Lis Jarig bij Synchroon\.picasa.ini
+[         366] Z:\Family Pictures\Tangram Kerst 2007\album\res\bg.gif
+Size: 375
+[         375] Z:\Family Pictures\Carnaval Tangram 2 2010\.picasa.ini
+[         375] Z:\Family Pictures\Jochem VVE Start seizoen 2010\.picasa.ini
+Size: 385
+[         385] Z:\Family Pictures\Diploma Balletbeen\.picasa.ini
+[         385] Z:\Family Pictures\Diploma Synchroon Nov 2009\.picasa.ini
+Size: 407
+[         407] Z:\Family Pictures\Malle Lis\Picasa.ini
+[         407] Z:\Family Pictures\Uitdelen Lis 2010\.picasa.ini
+Size: 414
+[         414] Z:\Family Pictures\Jochem Paashaas\.picasa.ini
+[         414] Z:\Family Pictures\Lis en Jochem op de WC\Picasa.ini
+[         414] Z:\Family Pictures\Lunch en viool\.picasa.ini
+Size: 415
+[         415] Z:\Family Pictures\LKB 2013\.picasa.ini
+[         415] Z:\Family Pictures\Overnamespecialisten\Picasa.ini
+Size: 417
+[         417] Z:\Family Pictures\Lis en Meike luisteren\.picasa.ini
+[         417] Z:\Family Pictures\Poffertjes maken\.picasa.ini
+Size: 462
+[         462] Z:\Family Pictures\2e Kerstdag 2001\Picasa.ini
+[         462] Z:\Family Pictures\Jochem is Sinterklaas en Florentien is jarig\Picasa.ini
+[         462] Z:\Family Pictures\Jochem jarig 2008\Picasa.ini
+Size: 471
+[         471] Z:\Family Pictures\Kamp Lis 2008\Picasa.ini
+[         471] Z:\Family Pictures\Zwemdiploma A\Picasa.ini
+Size: 494
+[         494] Z:\Family Pictures\Carnaval Tangram 2013\.picasa.ini
+[         494] Z:\Family Pictures\Lis haalt zelf brood\Picasa.ini
+Size: 517
+[         517] Z:\Family Pictures\Boomhut en Goldy wordt gekamd\Picasa.ini
+[         517] Z:\Family Pictures\Tangram Kerst 2007\Picasa.ini
+Size: 523
+[         523] Z:\Family Pictures\Jochem en Lis spelen\Picasa.ini
+[         523] Z:\Family Pictures\Tangram Kerst 2007\album\res\up.gif
+Size: 526
+[         526] Z:\Family Pictures\Tangram Kerst 2007\album\res\stop1.gif
+[         526] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\.picasa.ini
+Size: 533
+[         533] Z:\Family Pictures\Tangram Kerst 2007\album\res\show1.gif
+[         533] Z:\Family Pictures\Thuis Jan 2008\Picasa.ini
+Size: 536
+[         536] Z:\Family Pictures\Tangram Kerst 2007\album\res\next_disabled.gif
+[         536] Z:\Family Pictures\Tangram Kerst 2007\album\res\prev_disabled.gif
+Size: 538
+[         538] Z:\Family Pictures\Cadeau voor Jochem van Omi voor eerste schooldag\Picasa.ini
+[         538] Z:\Family Pictures\Tangram Kerst 2007\album\res\hdr_left.gif
+Size: 542
+[         542] Z:\Family Pictures\Gaby's buik\Picasa.ini
+[         542] Z:\Family Pictures\Lieve dingen van Lis en Jochem\Picasa.ini
+[         542] Z:\Family Pictures\Tangram Kerst 2007\album\res\next1.gif
+Size: 551
+[         551] Z:\Family Pictures\De dag voor de verjaardag van Lis\.picasa.ini
+[         551] Z:\Family Pictures\Tangram Kerst 2007\album\res\hdr_right.gif
+Size: 580
+[         580] Z:\Family Pictures\Jochem eet nog steeds niet netjes\.picasa.ini
+[         580] Z:\Family Pictures\Picknick mei 2005\Picasa.ini
+Size: 595
+[         595] Z:\Family Pictures\Carnaval 2009\Picasa.ini
+[         595] Z:\Family Pictures\Jochem Diploma B 2011\.picasa.ini
+Size: 716
+[         716] Z:\Family Pictures\Uitdelen Tangram Jochem 2011\.picasa.ini
+[         716] Z:\Family Pictures\Verjaardag Papa en Mama 2005\Picasa.ini
+Size: 767
+[         767] Z:\Family Pictures\Katten heel veel katten\.picasa.ini
+[         767] Z:\Family Pictures\Tangram Kerst 2007\album\res\heart.gif
+Size: 807
+[         807] Z:\Family Pictures\Fietsen zonder wieltjes\Picasa.ini
+[         807] Z:\Family Pictures\Moederdag 2012\.picasa.ini
+Size: 1294
+[        1294] Z:\Family Pictures\Bakpret\.picasa.ini
+[        1294] Z:\Family Pictures\Camera dump 6 nov 2005-uitzoeken\Picasa.ini
+Size: 1299
+[        1299] Z:\Family Pictures\Anne Logeert\.picasa.ini
+[        1299] Z:\Family Pictures\XMass eve 2005 (24dec)\Picasa.ini
+Size: 1438
+[        1438] Z:\Family Pictures\Thuis jan 2006\Picasa.ini
+[        1438] Z:\Family Pictures\Truus\Picasa.ini
+Size: 2110
+[        2110] Z:\Family Pictures\Kerstkaart 2011\.picasa.ini
+[        2110] Z:\Family Pictures\Oud en nieuw 2005-2006\Picasa.ini
+Size: 2498
+[        2498] Z:\Family Pictures\Tangram Kerst 2007\album\res\avi.gif
+[        2498] Z:\Family Pictures\Zeilvakantie Kroatie 2013 Nikon\.picasa.ini
+Size: 3456
+[        3456] Z:\Family Pictures\2009-10-11\.picasa.ini
+[        3456] Z:\Family Pictures\Bob de Bouwer 29 jan 2006\Picasa.ini
+Size: 4096
+[        4096] Z:\Family Pictures\._.DS_Store
+[        4096] Z:\Family Pictures\Tankdag Feb 2015\._.DS_Store
+Size: 5520
+[        5520] Z:\Family Pictures\Diversen\1W2TSF~F
+[        5520] Z:\Family Pictures\Diversen\_WVUKV~J
+Size: 7168
+[        7168] Z:\Family Pictures\Diversen\Thumbs.db
+[        7168] Z:\Family Pictures\Jochem en Toetje\Thumbs.db
+Size: 7680
+[        7680] Z:\Family Pictures\1 April 2011\Thumbs.db
+[        7680] Z:\Family Pictures\1 jan 2006, het nieuwe jaar\Thumbs.db
+[        7680] Z:\Family Pictures\Bank te koop\Thumbs.db
+[        7680] Z:\Family Pictures\Foto's van Lis\Thumbs.db
+[        7680] Z:\Family Pictures\Kerst Bergerstraat 2001\Thumbs.db
+[        7680] Z:\Family Pictures\Kerstavond 2001\Thumbs.db
+[        7680] Z:\Family Pictures\Ski Vakantie St Anton 2008\Thumbs.db
+Size: 8192
+[        8192] Z:\Family Pictures\1e en 2e Kerstdag 2008\Thumbs.db
+[        8192] Z:\Family Pictures\2e Kerstdag 2001\Thumbs.db
+[        8192] Z:\Family Pictures\Aus der Schweiz\Thumbs.db
+[        8192] Z:\Family Pictures\Banden plakken\Thumbs.db
+[        8192] Z:\Family Pictures\Beatenberg 2004\Thumbs.db
+[        8192] Z:\Family Pictures\Bench schoonmaken\Thumbs.db
+[        8192] Z:\Family Pictures\Christian 2003-08-24\Thumbs.db
+[        8192] Z:\Family Pictures\Christian 2004-02-29\Thumbs.db
+[        8192] Z:\Family Pictures\Daan\Thumbs.db
+[        8192] Z:\Family Pictures\Import 2005-08-16\Thumbs.db
+Size: 8704
+[        8704] Z:\Family Pictures\2e paasdag 2009\Thumbs.db
+[        8704] Z:\Family Pictures\Carnaval 2004\Thumbs.db
+Size: 65536
+[       65536] Z:\Family Pictures\Camera Dump 2005-09-11\Thumbs.db
+[       65536] Z:\Family Pictures\Prive pictures\Thumbs.db
+Size: 71680
+[       71680] Z:\Family Pictures\St Anton 2003\104_0467_r1_1.jpg
+[       71680] Z:\Family Pictures\Zweden op de schaats\Thumbs.db
+Size: 90966
+[       90966] Z:\Family Pictures\Jochem met Camper\IMG_1899.jpg
+[       90966] Z:\Family Pictures\St Anton 2003\104_0464_1.jpg
+Size: 101376
+[      101376] Z:\Family Pictures\De Boomhut\Thumbs.db
+[      101376] Z:\Family Pictures\Te sorteren\Thumbs.db
+Size: 257327
+[      257327] Z:\Family Pictures\Diversen\....Herman-HeDnimagesfull108-0876_IMG.jpg
+[      257327] Z:\Family Pictures\Diversen\108-0876_IMG.jpg
+Size: 343242
+[      343242] Z:\Family Pictures\1 jan 2006, het nieuwe jaar\IMG_0156.JPG
+[      343242] Z:\Family Pictures\1 jan 2006, het nieuwe jaar\JochemStaatVoorHetEerst020106.JPG
+Size: 370101
+[      370101] Z:\Family Pictures\Fotos Gaby Phone\IMAG0449.jpg
+[      370101] Z:\Family Pictures\Verjaardag Jochem 2009-Karin\SUC55855.JPG
+Size: 479822
+[      479822] Z:\Family Pictures\Fotos Gaby Phone 2013-11\IMAG0899.jpg
+[      479822] Z:\Family Pictures\Kerst Bergerstraat 2001\102-0224_IMG.JPG
+Size: 603820
+[      603820] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0103.JPG
+[      603820] Z:\Family Pictures\Oktober 2004\DSCN0103.JPG
+Size: 606777
+[      606777] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0091.JPG
+[      606777] Z:\Family Pictures\Oktober 2004\DSCN0091.JPG
+Size: 614346
+[      614346] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0075.JPG
+[      614346] Z:\Family Pictures\Oktober 2004\DSCN0075.JPG
+Size: 631257
+[      631257] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0105.JPG
+[      631257] Z:\Family Pictures\Oktober 2004\DSCN0105.JPG
+Size: 632931
+[      632931] Z:\Family Pictures\November 2003\IMG_1268.jpg
+[      632931] Z:\Family Pictures\November 2003\Picture 012.jpg
+Size: 635423
+[      635423] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0077.JPG
+[      635423] Z:\Family Pictures\Oktober 2004\DSCN0077.JPG
+Size: 635884
+[      635884] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0034.JPG
+[      635884] Z:\Family Pictures\Oktober 2004\DSCN0034.JPG
+Size: 640586
+[      640586] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0082.JPG
+[      640586] Z:\Family Pictures\Oktober 2004\DSCN0082.JPG
+Size: 644271
+[      644271] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0076.JPG
+[      644271] Z:\Family Pictures\Oktober 2004\DSCN0076.JPG
+Size: 651001
+[      651001] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0104.JPG
+[      651001] Z:\Family Pictures\Oktober 2004\DSCN0104.JPG
+Size: 653837
+[      653837] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0033.JPG
+[      653837] Z:\Family Pictures\Oktober 2004\DSCN0033.JPG
+Size: 657921
+[      657921] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0032.JPG
+[      657921] Z:\Family Pictures\Oktober 2004\DSCN0032.JPG
+Size: 658500
+[      658500] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0069.JPG
+[      658500] Z:\Family Pictures\Oktober 2004\DSCN0069.JPG
+Size: 658789
+[      658789] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0070.JPG
+[      658789] Z:\Family Pictures\Oktober 2004\DSCN0070.JPG
+Size: 662231
+[      662231] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0043.JPG
+[      662231] Z:\Family Pictures\Oktober 2004\DSCN0043.JPG
+Size: 663067
+[      663067] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0090.JPG
+[      663067] Z:\Family Pictures\Oktober 2004\DSCN0090.JPG
+Size: 665638
+[      665638] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0068.JPG
+[      665638] Z:\Family Pictures\Oktober 2004\DSCN0068.JPG
+Size: 666073
+[      666073] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0074.JPG
+[      666073] Z:\Family Pictures\Oktober 2004\DSCN0074.JPG
+Size: 667629
+[      667629] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0050.JPG
+[      667629] Z:\Family Pictures\Oktober 2004\DSCN0050.JPG
+Size: 669259
+[      669259] Z:\Family Pictures\November 2003\IMG_1272.jpg
+[      669259] Z:\Family Pictures\November 2003\Picture 016.jpg
+Size: 669303
+[      669303] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0093.JPG
+[      669303] Z:\Family Pictures\Oktober 2004\DSCN0093.JPG
+Size: 670508
+[      670508] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0080.JPG
+[      670508] Z:\Family Pictures\Oktober 2004\DSCN0080.JPG
+Size: 672515
+[      672515] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0072.JPG
+[      672515] Z:\Family Pictures\Oktober 2004\DSCN0072.JPG
+Size: 672817
+[      672817] Z:\Family Pictures\Camera Dumps\2005-02-28\2004\DSCN0370.JPG
+[      672817] Z:\Family Pictures\Fotos Gaby Phone 2013-11\IMAG1594.jpg
+Size: 675114
+[      675114] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0067.JPG
+[      675114] Z:\Family Pictures\Oktober 2004\DSCN0067.JPG
+Size: 676317
+[      676317] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0081.JPG
+[      676317] Z:\Family Pictures\Oktober 2004\DSCN0081.JPG
+Size: 677498
+[      677498] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0044.JPG
+[      677498] Z:\Family Pictures\Oktober 2004\DSCN0044.JPG
+Size: 677885
+[      677885] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0042.JPG
+[      677885] Z:\Family Pictures\Oktober 2004\DSCN0042.JPG
+Size: 680144
+[      680144] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0051.JPG
+[      680144] Z:\Family Pictures\Oktober 2004\DSCN0051.JPG
+Size: 680169
+[      680169] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0107.JPG
+[      680169] Z:\Family Pictures\Oktober 2004\DSCN0107.JPG
+Size: 680883
+[      680883] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0031.JPG
+[      680883] Z:\Family Pictures\Oktober 2004\DSCN0031.JPG
+Size: 683269
+[      683269] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0049.JPG
+[      683269] Z:\Family Pictures\Oktober 2004\DSCN0049.JPG
+Size: 683784
+[      683784] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0046.JPG
+[      683784] Z:\Family Pictures\Oktober 2004\DSCN0046.JPG
+Size: 685265
+[      685265] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0036.JPG
+[      685265] Z:\Family Pictures\Oktober 2004\DSCN0036.JPG
+Size: 685437
+[      685437] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0066.JPG
+[      685437] Z:\Family Pictures\Oktober 2004\DSCN0066.JPG
+Size: 687714
+[      687714] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0048.JPG
+[      687714] Z:\Family Pictures\Oktober 2004\DSCN0048.JPG
+Size: 688656
+[      688656] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0079.JPG
+[      688656] Z:\Family Pictures\Oktober 2004\DSCN0079.JPG
+Size: 689232
+[      689232] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0088.JPG
+[      689232] Z:\Family Pictures\Oktober 2004\DSCN0088.JPG
+Size: 689598
+[      689598] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0039.JPG
+[      689598] Z:\Family Pictures\Oktober 2004\DSCN0039.JPG
+Size: 693595
+[      693595] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0035.JPG
+[      693595] Z:\Family Pictures\Oktober 2004\DSCN0035.JPG
+Size: 693647
+[      693647] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0030.JPG
+[      693647] Z:\Family Pictures\Oktober 2004\DSCN0030.JPG
+Size: 695719
+[      695719] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0041.JPG
+[      695719] Z:\Family Pictures\Oktober 2004\DSCN0041.JPG
+Size: 697760
+[      697760] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0095.JPG
+[      697760] Z:\Family Pictures\Oktober 2004\DSCN0095.JPG
+Size: 697978
+[      697978] Z:\Family Pictures\November 2003\IMG_1269.jpg
+[      697978] Z:\Family Pictures\November 2003\Picture 013.jpg
+Size: 700840
+[      700840] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0073.JPG
+[      700840] Z:\Family Pictures\Oktober 2004\DSCN0073.JPG
+Size: 701428
+[      701428] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0099.JPG
+[      701428] Z:\Family Pictures\Oktober 2004\DSCN0099.JPG
+Size: 701438
+[      701438] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0117.JPG
+[      701438] Z:\Family Pictures\Gaby's buik\DSCN0117.JPG
+Size: 702447
+[      702447] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0045.JPG
+[      702447] Z:\Family Pictures\Oktober 2004\DSCN0045.JPG
+Size: 709077
+[      709077] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0094.JPG
+[      709077] Z:\Family Pictures\Oktober 2004\DSCN0094.JPG
+Size: 714478
+[      714478] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0089.JPG
+[      714478] Z:\Family Pictures\Oktober 2004\DSCN0089.JPG
+Size: 716939
+[      716939] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0061.JPG
+[      716939] Z:\Family Pictures\Oktober 2004\DSCN0061.JPG
+Size: 717336
+[      717336] Z:\Family Pictures\November 2003\IMG_1273.jpg
+[      717336] Z:\Family Pictures\November 2003\Picture 017.jpg
+Size: 719247
+[      719247] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0098.JPG
+[      719247] Z:\Family Pictures\Oktober 2004\DSCN0098.JPG
+Size: 722734
+[      722734] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0037.JPG
+[      722734] Z:\Family Pictures\Oktober 2004\DSCN0037.JPG
+Size: 722979
+[      722979] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0106.JPG
+[      722979] Z:\Family Pictures\Oktober 2004\DSCN0106.JPG
+Size: 725892
+[      725892] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0062.JPG
+[      725892] Z:\Family Pictures\Oktober 2004\DSCN0062.JPG
+Size: 726265
+[      726265] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0063.JPG
+[      726265] Z:\Family Pictures\Oktober 2004\DSCN0063.JPG
+Size: 729889
+[      729889] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0100.JPG
+[      729889] Z:\Family Pictures\Oktober 2004\DSCN0100.JPG
+Size: 731046
+[      731046] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0092.JPG
+[      731046] Z:\Family Pictures\Oktober 2004\DSCN0092.JPG
+Size: 732091
+[      732091] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0086.JPG
+[      732091] Z:\Family Pictures\Oktober 2004\DSCN0086.JPG
+Size: 735303
+[      735303] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0060.JPG
+[      735303] Z:\Family Pictures\Oktober 2004\DSCN0060.JPG
+Size: 735766
+[      735766] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0101.JPG
+[      735766] Z:\Family Pictures\Oktober 2004\DSCN0101.JPG
+Size: 735865
+[      735865] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0038.JPG
+[      735865] Z:\Family Pictures\Oktober 2004\DSCN0038.JPG
+Size: 735915
+[      735915] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0102.JPG
+[      735915] Z:\Family Pictures\Oktober 2004\DSCN0102.JPG
+Size: 737729
+[      737729] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0096.JPG
+[      737729] Z:\Family Pictures\Oktober 2004\DSCN0096.JPG
+Size: 741036
+[      741036] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0058.JPG
+[      741036] Z:\Family Pictures\Oktober 2004\DSCN0058.JPG
+Size: 742946
+[      742946] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0054.JPG
+[      742946] Z:\Family Pictures\Oktober 2004\DSCN0054.JPG
+Size: 743782
+[      743782] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0057.JPG
+[      743782] Z:\Family Pictures\Oktober 2004\DSCN0057.JPG
+Size: 743811
+[      743811] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0055.JPG
+[      743811] Z:\Family Pictures\Oktober 2004\DSCN0055.JPG
+Size: 743829
+[      743829] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0053.JPG
+[      743829] Z:\Family Pictures\Oktober 2004\DSCN0053.JPG
+Size: 745124
+[      745124] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0056.JPG
+[      745124] Z:\Family Pictures\Oktober 2004\DSCN0056.JPG
+Size: 745536
+[      745536] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0065.JPG
+[      745536] Z:\Family Pictures\Oktober 2004\DSCN0065.JPG
+Size: 747901
+[      747901] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0052.JPG
+[      747901] Z:\Family Pictures\Oktober 2004\DSCN0052.JPG
+Size: 749359
+[      749359] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0064.JPG
+[      749359] Z:\Family Pictures\Oktober 2004\DSCN0064.JPG
+Size: 749733
+[      749733] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0059.JPG
+[      749733] Z:\Family Pictures\Oktober 2004\DSCN0059.JPG
+Size: 749745
+[      749745] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0085.JPG
+[      749745] Z:\Family Pictures\Lis, lieve Lis\4 sep 2003\lisfers 017.jpg
+[      749745] Z:\Family Pictures\Oktober 2004\DSCN0085.JPG
+Size: 751194
+[      751194] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0087.JPG
+[      751194] Z:\Family Pictures\Oktober 2004\DSCN0087.JPG
+Size: 754265
+[      754265] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0097.JPG
+[      754265] Z:\Family Pictures\Oktober 2004\DSCN0097.JPG
+Size: 822449
+[      822449] Z:\Family Pictures\KalenderOmi\DSCN1297.jpg
+[      822449] Z:\Family Pictures\KalenderOpa&OmaZ\DSCN1297.jpg
+[      822449] Z:\Family Pictures\Noordholland Vlietlanden\DSCN1297.JPG
+Size: 854708
+[      854708] Z:\Family Pictures\Fotos Gaby Phone 2013-11\IMAG0826.jpg
+[      854708] Z:\Family Pictures\Verjaardag Jochem 2009 kleine camera 2\DSCN2390.JPG
+Size: 865350
+[      865350] Z:\Family Pictures\November 2003\IMG_1274.jpg
+[      865350] Z:\Family Pictures\November 2003\Picture 018.jpg
+Size: 909498
+[      909498] Z:\Family Pictures\KalenderOpa&OmaZ\DSCN1328.jpg
+[      909498] Z:\Family Pictures\Noordholland Vlietlanden\DSCN1328.JPG
+Size: 941652
+[      941652] Z:\Family Pictures\KalenderOmi\DSCN0845.jpg
+[      941652] Z:\Family Pictures\Verjaardag Lis 2005\DSCN0845.JPG
+Size: 943084
+[      943084] Z:\Family Pictures\November 2003\IMG_1270.jpg
+[      943084] Z:\Family Pictures\November 2003\Picture 014.jpg
+Size: 944022
+[      944022] Z:\Family Pictures\Fotos Gaby Phone 2013-11\IMAG1333.jpg
+[      944022] Z:\Family Pictures\St Anton 2006\DSCN1475.JPG
+Size: 953549
+[      953549] Z:\Family Pictures\KalenderOmi\DSCN1131.jpg
+[      953549] Z:\Family Pictures\XMass 2005 (25 dec)\DSCN1131.JPG
+Size: 957984
+[      957984] Z:\Family Pictures\Diversen April 2005\DSCN0627.JPG
+[      957984] Z:\Family Pictures\Diversen April 2005\Originals\DSCN0627.JPG
+Size: 966937
+[      966937] Z:\Family Pictures\Diversen Maart 2005\DSCN0599.JPG
+[      966937] Z:\Family Pictures\Import 2005-08-16\DSCN0991.JPG
+Size: 984836
+[      984836] Z:\Family Pictures\Import kleine camera 2 sept 2008\DSCN1931.JPG
+[      984836] Z:\Family Pictures\Noordholland Vlietlanden\DSCN1291.JPG
+Size: 985221
+[      985221] Z:\Family Pictures\Carnaval 2009, maandag\DSCN2301.JPG
+[      985221] Z:\Family Pictures\Thuis 12-11-2005\DSCN1232.JPG
+Size: 999457
+[      999457] Z:\Family Pictures\KalenderOpa&OmaZ\DSCN1241.jpg
+[      999457] Z:\Family Pictures\Verjaardag Papa en Mama 2005\DSCN1241.JPG
+Size: 1004852
+[     1004852] Z:\Family Pictures\Bronk 2005\DSCN0948.JPG
+[     1004852] Z:\Family Pictures\Verjaardag Lis 2005\DSCN0825.JPG
+Size: 1014246
+[     1014246] Z:\Family Pictures\Holland_Mai_2011\IMGP0191.jpg
+[     1014246] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0191.jpg
+Size: 1022869
+[     1022869] Z:\Family Pictures\Camera dump 6 nov 2005-uitzoeken\DSCN1199.JPG
+[     1022869] Z:\Family Pictures\Kamp Lis 2010\DSC08918.JPG
+Size: 1028122
+[     1028122] Z:\Family Pictures\KalenderOmi\DSCN0871.jpg
+[     1028122] Z:\Family Pictures\KalenderOpa&OmaZ\DSCN0871.jpg
+[     1028122] Z:\Family Pictures\XMass 2005 (25 dec)\DSCN0871.JPG
+Size: 1028619
+[     1028619] Z:\Family Pictures\Holland_Mai_2011\IMGP0176-2.jpg
+[     1028619] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0176-2.jpg
+Size: 1031122
+[     1031122] Z:\Family Pictures\Camera dump 6 nov 2005-uitzoeken\DSCN1201.JPG
+[     1031122] Z:\Family Pictures\Carnaval 2009\DSCN2209.JPG
+Size: 1033517
+[     1033517] Z:\Family Pictures\Jochem-En meer\Lis&Jochem.jpg
+[     1033517] Z:\Family Pictures\KalenderOmi\Lis&Jochem.jpg
+Size: 1051020
+[     1051020] Z:\Family Pictures\Fotos Valkenburg\DSCN1505.JPG
+[     1051020] Z:\Family Pictures\Honden zwemmen 2007\DSCN1621.JPG
+Size: 1055630
+[     1055630] Z:\Family Pictures\Import kleine camera 01-03-2008\DSCN1655.JPG
+[     1055630] Z:\Family Pictures\Import kleine camera 2 sept 2008\DSCN1955.JPG
+Size: 1060097
+[     1060097] Z:\Family Pictures\Import kleine camera 2 sept 2008\DSCN2057.JPG
+[     1060097] Z:\Family Pictures\Verjaardag Lis 2005\DSCN0875.JPG
+Size: 1075141
+[     1075141] Z:\Family Pictures\Jochem-En meer\DSCN0540.JPG
+[     1075141] Z:\Family Pictures\KalenderOmi\DSCN0540.jpg
+Size: 1076733
+[     1076733] Z:\Family Pictures\November 2003\IMG_1271.jpg
+[     1076733] Z:\Family Pictures\November 2003\Picture 015.jpg
+Size: 1084660
+[     1084660] Z:\Family Pictures\KalenderOmi\DSCN1242.jpg
+[     1084660] Z:\Family Pictures\KalenderOpa&OmaZ\DSCN1242.jpg
+[     1084660] Z:\Family Pictures\Verjaardag Papa en Mama 2005\DSCN1242.JPG
+Size: 1093702
+[     1093702] Z:\Family Pictures\Holland_Mai_2011\IMGP0312.jpg
+[     1093702] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0312.jpg
+Size: 1108060
+[     1108060] Z:\Family Pictures\Fotos Gaby Phone 2013-11\IMAG1795.jpg
+[     1108060] Z:\Family Pictures\Jochem-En meer\DSCN0550.JPG
+Size: 1129003
+[     1129003] Z:\Family Pictures\Fotos Gaby Phone\IMAG0136.jpg
+[     1129003] Z:\Family Pictures\Fotos Gaby Phone\IMAG0330.jpg
+Size: 1143130
+[     1143130] Z:\Family Pictures\Goldy&Hobbes2.bmp
+[     1143130] Z:\Family Pictures\Prive pictures\Goldy&Hobbes3.bmp
+Size: 1211834
+[     1211834] Z:\Family Pictures\Fotos Gaby Phone\IMAG0297.jpg
+[     1211834] Z:\Family Pictures\Lis Foto Shoot\078.JPG
+Size: 1244214
+[     1244214] Z:\Family Pictures\Carnaval 2004\Caranaval 2004-Lis eet Hotdog 1.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 10.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 11.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 12.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 13.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 14.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 15.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 16.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 2.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 3.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 4.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 5.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 6.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 7.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 8.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis 9.bmp
+[     1244214] Z:\Family Pictures\Carnaval 2004\carnaval2004Lis1.bmp
+Size: 1459816
+[     1459816] Z:\Family Pictures\Bellwald 2012\IMG_5674.JPG
+[     1459816] Z:\Family Pictures\Bellwald 2012\IMG_5803.JPG
+Size: 1475417
+[     1475417] Z:\Family Pictures\Holland_Mai_2011\IMGP0201.jpg
+[     1475417] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0201.jpg
+Size: 1478471
+[     1478471] Z:\Family Pictures\Bellwald 2012\IMG_5871.JPG
+[     1478471] Z:\Family Pictures\Fotos Gaby Phone\IMAG0306.jpg
+Size: 1577472
+[     1577472] Z:\Family Pictures\Video Schier 2011\VIDEO0121.3gp
+[     1577472] Z:\Family Pictures\Videos Gaby Phone\VIDEO0121.3gp
+Size: 1623680
+[     1623680] Z:\Family Pictures\Holland_Mai_2011\IMGP0132-2.jpg
+[     1623680] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0132-2.jpg
+Size: 1722214
+[     1722214] Z:\Family Pictures\Fotos Jochem September 2011\IMG_4979.JPG
+[     1722214] Z:\Family Pictures\Import 8 juni 2011\IMG_2923.JPG
+Size: 1753530
+[     1753530] Z:\Family Pictures\Camera Dumps\2004-12-11\DSCN0071.MOV
+[     1753530] Z:\Family Pictures\Oktober 2004\DSCN0071.MOV
+Size: 1802884
+[     1802884] Z:\Family Pictures\Schier 2011 met zn allen\IMG_5545.JPG
+[     1802884] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4279.JPG
+Size: 1919502
+[     1919502] Z:\Family Pictures\Corsica 2010\IMG_0205.JPG
+[     1919502] Z:\Family Pictures\Zweden op de schaats\Afbeelding 048.jpg
+Size: 2008677
+[     2008677] Z:\Family Pictures\Vakantie Engeland 2010\IMG_1033.JPG
+[     2008677] Z:\Family Pictures\Vakantie Zweden 2011\IMG_3889.JPG
+Size: 2021034
+[     2021034] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0132.jpg
+[     2021034] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0132.JPG
+Size: 2023242
+[     2023242] Z:\Family Pictures\De dag voor de verjaardag van Lis\IMG_4727.JPG
+[     2023242] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1357.JPG
+Size: 2049952
+[     2049952] Z:\Family Pictures\De Waskelder Nieuw\IMG_1374.JPG
+[     2049952] Z:\Family Pictures\Vakantie Engeland 2010\IMG_1082.JPG
+Size: 2122326
+[     2122326] Z:\Family Pictures\Import 20 december 2008\IMG_7507.JPG
+[     2122326] Z:\Family Pictures\Terschelling 2006\IMG_1684.JPG
+Size: 2177264
+[     2177264] Z:\Family Pictures\Tangram Gala by Sacha Ruland\John&Xavier.jpg
+[     2177264] Z:\Family Pictures\Tangram Gala by Sacha Ruland\Tangram Filmfeest.118.jpg
+Size: 2201942
+[     2201942] Z:\Family Pictures\Import Canon 350D Januari 2014\IMG_6021.JPG
+[     2201942] Z:\Family Pictures\Tangram Dance Valley\IMG_6952.JPG
+Size: 2210109
+[     2210109] Z:\Family Pictures\Kapla kunst 2010\IMG_1597.JPG
+[     2210109] Z:\Family Pictures\Schiermonnikoog zomer 2011\IMG_5118.JPG
+Size: 2227295
+[     2227295] Z:\Family Pictures\Dolfijnenkamp Lis 2011\IMG_4782.JPG
+[     2227295] Z:\Family Pictures\Vakantie Zuid Frankrijk argeles sur mer\IMG_0921.JPG
+Size: 2247573
+[     2247573] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1858.JPG
+[     2247573] Z:\Family Pictures\Import alles 24 sept 2009\IMG_9960.JPG
+Size: 2301662
+[     2301662] Z:\Family Pictures\Foto's van dias-oud en ouder\DS060205170209.jpg
+[     2301662] Z:\Family Pictures\Import 1 oktober 2006\IMG_2235.JPG
+Size: 2304274
+[     2304274] Z:\Family Pictures\Bellwald 2010-2011\IMG_2039.JPG
+[     2304274] Z:\Family Pictures\Synchro Diploma 2011\IMG_3766.JPG
+Size: 2332762
+[     2332762] Z:\Family Pictures\Import 17 February 2007\IMG_3042.JPG
+[     2332762] Z:\Family Pictures\Schier 2011 met zn allen\IMG_5473.JPG
+Size: 2334799
+[     2334799] Z:\Family Pictures\Dolfijnenkamp Lis 2011\IMG_4800.JPG
+[     2334799] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4180.JPG
+Size: 2363291
+[     2363291] Z:\Family Pictures\2009-10-11\IMG_0411.JPG
+[     2363291] Z:\Family Pictures\Import 20111018 fotos\IMG_5174.JPG
+Size: 2364439
+[     2364439] Z:\Family Pictures\Corsica 2010\IMG_0356.JPG
+[     2364439] Z:\Family Pictures\Vakantie Engeland 2010\IMG_1103.JPG
+Size: 2377520
+[     2377520] Z:\Family Pictures\Gala Tangram 2008\IMG_6631.JPG
+[     2377520] Z:\Family Pictures\Import Canon 350D Januari 2014\IMG_5797.JPG
+Size: 2393107
+[     2393107] Z:\Family Pictures\Holland_Mai_2011\IMGP0314.jpg
+[     2393107] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0314.jpg
+Size: 2409298
+[     2409298] Z:\Family Pictures\KalenderOmi\IMG_0149.jpg
+[     2409298] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0149.jpg
+[     2409298] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0149.JPG
+Size: 2450252
+[     2450252] Z:\Family Pictures\Sinterklaas Tangram 2009\IMG_1063.JPG
+[     2450252] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2236.JPG
+Size: 2473882
+[     2473882] Z:\Family Pictures\De nacht van Maarland, hardlopen\IMG_6997.JPG
+[     2473882] Z:\Family Pictures\THuis fotos 27-29 jan 2011\IMG_2245.JPG
+Size: 2474424
+[     2474424] Z:\Family Pictures\Import 17 February 2007\IMG_3136.JPG
+[     2474424] Z:\Family Pictures\Sinterklaas Tangram 2009\IMG_1114.JPG
+Size: 2476749
+[     2476749] Z:\Family Pictures\KalenderOmi\IMG_0157.jpg
+[     2476749] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0157.jpg
+Size: 2485372
+[     2485372] Z:\Family Pictures\Import 1 oktober 2006\IMG_2167.JPG
+[     2485372] Z:\Family Pictures\Import Kleine camera 25 april 2011\IMG_2628.JPG
+Size: 2495414
+[     2495414] Z:\Family Pictures\Sinterklaas Gronsveld 2009\IMG_1011.JPG
+[     2495414] Z:\Family Pictures\Vakantie Zuid Frankrijk argeles sur mer\IMG_0831.JPG
+Size: 2496078
+[     2496078] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6416.JPG
+[     2496078] Z:\Family Pictures\Import kleine camera 5 mei 2011\IMG_2708.JPG
+Size: 2505822
+[     2505822] Z:\Family Pictures\2009-10-11\IMG_0335.JPG
+[     2505822] Z:\Family Pictures\Schier kamperen 2012\DSCN1148.JPG
+Size: 2510584
+[     2510584] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\DSCN0793.JPG
+[     2510584] Z:\Family Pictures\Zeilkamp Waolenwiert 2012\DSCN0793.JPG
+Size: 2516614
+[     2516614] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1369.JPG
+[     2516614] Z:\Family Pictures\Scheel kijken\IMG_2632.JPG
+Size: 2523234
+[     2523234] Z:\Family Pictures\Kittens in de bocht\DSCN2283.JPG
+[     2523234] Z:\Family Pictures\Vuurwerk 2012-2013\DSCN1525.JPG
+Size: 2529213
+[     2529213] Z:\Family Pictures\Kippen\DSCN0743.JPG
+[     2529213] Z:\Family Pictures\Schier kamperen 2012\DSCN1116.JPG
+Size: 2530662
+[     2530662] Z:\Family Pictures\Fam Zandbergen Schoorl 2012\DSCN0384.JPG
+[     2530662] Z:\Family Pictures\Kamp Lis 2006 grote camera\IMG_2005.JPG
+Size: 2537730
+[     2537730] Z:\Family Pictures\Kerstkaart 2011\IMG_5773.JPG
+[     2537730] Z:\Family Pictures\Weekend Jochem Cirque en Tanks\DSCN4530.JPG
+Size: 2539662
+[     2539662] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0022.JPG
+[     2539662] Z:\Family Pictures\XMass card 2005\IMG_0022.JPG
+Size: 2541137
+[     2541137] Z:\Family Pictures\Corsica 2010\IMG_0142.JPG
+[     2541137] Z:\Family Pictures\Kerstboom opzetten 2012\DSCN1310.JPG
+Size: 2545578
+[     2545578] Z:\Family Pictures\KalenderOmi\IMG_0023.jpg
+[     2545578] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0023.JPG
+Size: 2549439
+[     2549439] Z:\Family Pictures\Import 9 april 2007\IMG_3419.JPG
+[     2549439] Z:\Family Pictures\Thuis fotos juli aug 2011\IMG_4609.JPG
+Size: 2550025
+[     2550025] Z:\Family Pictures\Import Nikon 2014-07-25\100NIKON\DSCN4625.JPG
+[     2550025] Z:\Family Pictures\Uitreiking Cheque Stop Tetanus\DSCN0876.JPG
+Size: 2551881
+[     2551881] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2590.JPG
+[     2551881] Z:\Family Pictures\Groeve 't Rooth\DSCN1156.JPG
+Size: 2552054
+[     2552054] Z:\Family Pictures\KalenderOmi\IMG_0156.jpg
+[     2552054] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0156.JPG
+Size: 2555451
+[     2555451] Z:\Family Pictures\Backup Camera Lis 20150502\271CANON\IMG_7118.JPG
+[     2555451] Z:\Family Pictures\Tangram Gala by Sacha Ruland\Tangram Filmfeest.035.jpg
+Size: 2561661
+[     2561661] Z:\Family Pictures\Holland_Mai_2011\IMGP0189.jpg
+[     2561661] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0189.jpg
+Size: 2562994
+[     2562994] Z:\Family Pictures\Lis&jochemsept-nov06 inclEfteling\IMG_2300.JPG
+[     2562994] Z:\Family Pictures\Thuis fotos juli aug 2011\IMG_4706.JPG
+Size: 2564556
+[     2564556] Z:\Family Pictures\CWO diploma september 2012\DSCN1084.JPG
+[     2564556] Z:\Family Pictures\Mia Logeert Maart 2013\DSCN2249.JPG
+Size: 2566534
+[     2566534] Z:\Family Pictures\Vakantie Zuid Frankrijk argeles sur mer\IMG_0837.JPG
+[     2566534] Z:\Family Pictures\Zwembadfeest Lis 8 jaar\IMG_3096.JPG
+Size: 2569987
+[     2569987] Z:\Family Pictures\Import alles 24 sept 2009\IMG_0148.JPG
+[     2569987] Z:\Family Pictures\Schier kamperen 2012\DSCN1119.JPG
+Size: 2574958
+[     2574958] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5627.JPG
+[     2574958] Z:\Family Pictures\Weekend Jochem Cirque en Tanks\DSCN4564.JPG
+Size: 2575006
+[     2575006] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5124.JPG
+[     2575006] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5880.JPG
+Size: 2579825
+[     2579825] Z:\Family Pictures\KalenderOmi\IMG_0151.jpg
+[     2579825] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0151.jpg
+Size: 2580865
+[     2580865] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1522.JPG
+[     2580865] Z:\Family Pictures\Sneeuw 24 feb 2013\DSCN1956.JPG
+Size: 2581419
+[     2581419] Z:\Family Pictures\I.M. Possible Event\DSCN0897.JPG
+[     2581419] Z:\Family Pictures\Nieuwjaar bij de Henry's\DSCN1557.JPG
+Size: 2583137
+[     2583137] Z:\Family Pictures\Lekkere kwarktaart\IMG_8244.JPG
+[     2583137] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN4922.JPG
+Size: 2584390
+[     2584390] Z:\Family Pictures\Backup Camera Lis 20150502\267CANON\IMG_6792.JPG
+[     2584390] Z:\Family Pictures\Ballet Lis 2007\IMG_4013.JPG
+Size: 2587300
+[     2587300] Z:\Family Pictures\Madeira 2012\DSCN0615.JPG
+[     2587300] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5855.JPG
+Size: 2588251
+[     2588251] Z:\Family Pictures\Backup Camera Lis 20150502\276CANON\IMG_7607.JPG
+[     2588251] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6115.JPG
+Size: 2588477
+[     2588477] Z:\Family Pictures\Bellwald 2007-2008\IMG_5201.JPG
+[     2588477] Z:\Family Pictures\Thuis fotos 25 jan 2011\IMG_2199.JPG
+Size: 2597439
+[     2597439] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6502.JPG
+[     2597439] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5216.JPG
+Size: 2599302
+[     2599302] Z:\Family Pictures\Lucie50jaar\IMG_2591.JPG
+[     2599302] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0146.JPG
+Size: 2601647
+[     2601647] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1362.JPG
+[     2601647] Z:\Family Pictures\Lis op Zeilkamp 2012\DSCN0984.JPG
+Size: 2608971
+[     2608971] Z:\Family Pictures\Carnaval Tangram 2013\DSCN1704.JPG
+[     2608971] Z:\Family Pictures\Carnaval Tantram 2010\IMG_2140.JPG
+Size: 2609761
+[     2609761] Z:\Family Pictures\Interne verhuizing 2012\DSCN1120.JPG
+[     2609761] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6129.JPG
+Size: 2611707
+[     2611707] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5307.JPG
+[     2611707] Z:\Family Pictures\Zeilvakantie Kroatie 2013 Nikon\DSCN2371.JPG
+Size: 2612273
+[     2612273] Z:\Family Pictures\Import 17 February 2007\IMG_2974.JPG
+[     2612273] Z:\Family Pictures\Madeira 2012\DSCN0458.JPG
+Size: 2616583
+[     2616583] Z:\Family Pictures\LKB Lis 2011\IMG_3727.JPG
+[     2616583] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5030.JPG
+Size: 2618603
+[     2618603] Z:\Family Pictures\Ballet Lis 2007\IMG_3996.JPG
+[     2618603] Z:\Family Pictures\Madeira 2012\DSCN0292.JPG
+[     2618603] Z:\Family Pictures\Verjaardag Lis 2012\DSCN0479.JPG
+Size: 2621634
+[     2621634] Z:\Family Pictures\Madeira 2012\DSCN0221.JPG
+[     2621634] Z:\Family Pictures\Thuis Jan 2013\DSCN1579.JPG
+Size: 2623877
+[     2623877] Z:\Family Pictures\Madeira 2012\DSCN0257.JPG
+[     2623877] Z:\Family Pictures\Schiermonnikoog zomer 2011\IMG_5051.JPG
+Size: 2627722
+[     2627722] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0147.JPG
+[     2627722] Z:\Family Pictures\Vakantie Zweden 2011\IMG_3868.JPG
+Size: 2629694
+[     2629694] Z:\Family Pictures\KalenderOmi\IMG_0021.jpg
+[     2629694] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0021.jpg
+[     2629694] Z:\Family Pictures\XMass card 2005\IMG_0021.JPG
+Size: 2631532
+[     2631532] Z:\Family Pictures\Feestje Jochem 7 jaar\IMG_6088.JPG
+[     2631532] Z:\Family Pictures\Kerstavond 2012\DSCN1384.JPG
+Size: 2632868
+[     2632868] Z:\Family Pictures\Fotos Jochem September 2011\IMG_4885.JPG
+[     2632868] Z:\Family Pictures\Lis op Zeilkamp 2012\DSCN0986.JPG
+Size: 2635772
+[     2635772] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9202.JPG
+[     2635772] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5380.JPG
+Size: 2636753
+[     2636753] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN4917.JPG
+[     2636753] Z:\Family Pictures\Weekend Jochem Cirque en Tanks\DSCN4471.JPG
+Size: 2637235
+[     2637235] Z:\Family Pictures\Import Nikon 2014-07-25\100NIKON\DSCN4679.JPG
+[     2637235] Z:\Family Pictures\Schier kamperen 2012\DSCN1131.JPG
+Size: 2637642
+[     2637642] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9255.JPG
+[     2637642] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5623.JPG
+Size: 2640857
+[     2640857] Z:\Family Pictures\Tangram surprise 2010\IMG_1662.JPG
+[     2640857] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4192.JPG
+Size: 2642962
+[     2642962] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6310.JPG
+[     2642962] Z:\Family Pictures\Madeira 2012\DSCN0434.JPG
+Size: 2643545
+[     2643545] Z:\Family Pictures\Carnaval Tangram 2013\DSCN1694.JPG
+[     2643545] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6123.JPG
+Size: 2643986
+[     2643986] Z:\Family Pictures\Bellwald 2009-2010\IMG_1293.JPG
+[     2643986] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5230.JPG
+Size: 2645422
+[     2645422] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5023.JPG
+[     2645422] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4129.JPG
+Size: 2647376
+[     2647376] Z:\Family Pictures\Import 17 February 2007\IMG_3105.JPG
+[     2647376] Z:\Family Pictures\Zomervakantie 2015\DSCN6611.JPG
+Size: 2647876
+[     2647876] Z:\Family Pictures\Truus logeert 2012\DSCN0914.JPG
+[     2647876] Z:\Family Pictures\Vakantie Zuid Frankrijk argeles sur mer\IMG_0954.JPG
+Size: 2652845
+[     2652845] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2558.JPG
+[     2652845] Z:\Family Pictures\Vlecht Gaby door Lis\DSCN2308.JPG
+Size: 2654392
+[     2654392] Z:\Family Pictures\Schier kamperen 2012\DSCN0142.JPG
+[     2654392] Z:\Family Pictures\Verjaardag Lis 2012\DSCN0560.JPG
+Size: 2654589
+[     2654589] Z:\Family Pictures\De wasmachine\IMG_0547.JPG
+[     2654589] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5361.JPG
+Size: 2657968
+[     2657968] Z:\Family Pictures\Import 8 juni 2011\IMG_3074.JPG
+[     2657968] Z:\Family Pictures\Nieuwjaar bij de Henry's\DSCN1553.JPG
+Size: 2661464
+[     2661464] Z:\Family Pictures\Kippen\DSCN0741.JPG
+[     2661464] Z:\Family Pictures\Papa leest voor\IMG_0382.JPG
+Size: 2662144
+[     2662144] Z:\Family Pictures\Tangram Gala by Sacha Ruland\Tangram Filmfeest.016.jpg
+[     2662144] Z:\Family Pictures\Zeilvakantie Kroatie 2013 Nikon\DSCN2425.JPG
+Size: 2662769
+[     2662769] Z:\Family Pictures\Vakantie Zweden 2011\IMG_3503.JPG
+[     2662769] Z:\Family Pictures\Verjaardag Lis 2006\IMG_1083.JPG
+Size: 2663554
+[     2663554] Z:\Family Pictures\Madeira 2012\DSCN0602.JPG
+[     2663554] Z:\Family Pictures\Schier kamperen 2012\DSCN1070.JPG
+Size: 2665090
+[     2665090] Z:\Family Pictures\Verjaardagfeestje Lis 2011\IMG_3258.JPG
+[     2665090] Z:\Family Pictures\Vierhouten Pa en Ma 55 jaar huwelijk\IMG_4550.JPG
+Size: 2665271
+[     2665271] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\DSCN0792.JPG
+[     2665271] Z:\Family Pictures\Zeilkamp Waolenwiert 2012\DSCN0792.JPG
+Size: 2665299
+[     2665299] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7654.JPG
+[     2665299] Z:\Family Pictures\Backup Camera Lis 20150502\276CANON\IMG_7603.JPG
+Size: 2665523
+[     2665523] Z:\Family Pictures\Diner aon t Bat\DSCN0845.JPG
+[     2665523] Z:\Family Pictures\Kerstavond 2012\DSCN1361.JPG
+Size: 2669155
+[     2669155] Z:\Family Pictures\Fam Zandbergen Schoorl 2012\DSCN0431.JPG
+[     2669155] Z:\Family Pictures\Fotos thuis mei aug 2011\IMG_5002.JPG
+Size: 2671189
+[     2671189] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\DSCN0791.JPG
+[     2671189] Z:\Family Pictures\Zeilkamp Waolenwiert 2012\DSCN0791.JPG
+Size: 2671702
+[     2671702] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5217.JPG
+[     2671702] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6087.JPG
+Size: 2673269
+[     2673269] Z:\Family Pictures\Kertsdiner 2012\DSCN1459.JPG
+[     2673269] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5440.JPG
+Size: 2674086
+[     2674086] Z:\Family Pictures\2009-10-11\IMG_0340.JPG
+[     2674086] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4031.JPG
+Size: 2680811
+[     2680811] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2099.JPG
+[     2680811] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2189.JPG
+Size: 2680870
+[     2680870] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2686.JPG
+[     2680870] Z:\Family Pictures\Sneeuw 24 feb 2013\DSCN1953.JPG
+Size: 2686104
+[     2686104] Z:\Family Pictures\Kamp Lis 2006 grote camera\IMG_1898.JPG
+[     2686104] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5993.JPG
+Size: 2686253
+[     2686253] Z:\Family Pictures\Backup Camera Lis 20150502\267CANON\IMG_6754.JPG
+[     2686253] Z:\Family Pictures\Lis&jochemsept-nov06 inclEfteling\IMG_2501.JPG
+Size: 2686565
+[     2686565] Z:\Family Pictures\Tangram Sinterklaas 2007\IMG_4921.JPG
+[     2686565] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6150.JPG
+Size: 2688081
+[     2688081] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7756.JPG
+[     2688081] Z:\Family Pictures\Madeira 2012\DSCN0394.JPG
+Size: 2692295
+[     2692295] Z:\Family Pictures\Thuis jan 2006\IMG_0285.JPG
+[     2692295] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5190.JPG
+Size: 2692909
+[     2692909] Z:\Family Pictures\Laatste schooldag 2012\DSCN0958.JPG
+[     2692909] Z:\Family Pictures\Verjaardag Lis 2012\DSCN0556.JPG
+Size: 2698997
+[     2698997] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6229.JPG
+[     2698997] Z:\Family Pictures\Eekhoorn in de tuin\DSCN0757.JPG
+Size: 2700684
+[     2700684] Z:\Family Pictures\Madeira 2012\DSCN0203.JPG
+[     2700684] Z:\Family Pictures\Zeeland Domburg\IMG_2638.JPG
+Size: 2703087
+[     2703087] Z:\Family Pictures\Jochem slaapt met blote billen\IMG_9779.JPG
+[     2703087] Z:\Family Pictures\Uitreiking Cheque Stop Tetanus\DSCN0898.JPG
+Size: 2704950
+[     2704950] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2482.JPG
+[     2704950] Z:\Family Pictures\Kertsdiner 2012\DSCN1445.JPG
+Size: 2707170
+[     2707170] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6327.JPG
+[     2707170] Z:\Family Pictures\Kerstboom opzetten 2012\DSCN1316.JPG
+Size: 2707746
+[     2707746] Z:\Family Pictures\Cadeau voor Jochem van Omi voor eerste schooldag\IMG_8213.JPG
+[     2707746] Z:\Family Pictures\Import Nikon 2014-07-25\100NIKON\DSCN4644.JPG
+Size: 2708420
+[     2708420] Z:\Family Pictures\Backup Camera Lis 20150502\273CANON\IMG_7381.JPG
+[     2708420] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5868.JPG
+Size: 2713965
+[     2713965] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6362.JPG
+[     2713965] Z:\Family Pictures\Tangram Gala by Sacha Ruland\Tangram Filmfeest.079.jpg
+Size: 2715073
+[     2715073] Z:\Family Pictures\Thuis foto's Okt 2011\IMG_5407.JPG
+[     2715073] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN6145.JPG
+Size: 2716715
+[     2716715] Z:\Family Pictures\Hoela en Hoep 14 feb 2013\DSCN1827.JPG
+[     2716715] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\DSCN0795.JPG
+[     2716715] Z:\Family Pictures\Zeilkamp Waolenwiert 2012\DSCN0795.JPG
+Size: 2717576
+[     2717576] Z:\Family Pictures\Truus, Mevrouw de Heks en Zeilles 2\IMG_2898.JPG
+[     2717576] Z:\Family Pictures\Vakantie Engeland 2010\IMG_1094.JPG
+Size: 2718618
+[     2718618] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6522.JPG
+[     2718618] Z:\Family Pictures\Schier kamperen 2012\DSCN1173.JPG
+Size: 2721011
+[     2721011] Z:\Family Pictures\Schier kamperen 2012\DSCN1092-001.JPG
+[     2721011] Z:\Family Pictures\Schier kamperen 2012\DSCN1092.JPG
+Size: 2722429
+[     2722429] Z:\Family Pictures\Dames ontbijt op bed 1\DSCN0912.JPG
+[     2722429] Z:\Family Pictures\Madeira 2012\DSCN0768.JPG
+Size: 2722787
+[     2722787] Z:\Family Pictures\Feestje Jochem 7 jaar\IMG_6106.JPG
+[     2722787] Z:\Family Pictures\Madeira 2012\DSCN0644.JPG
+Size: 2722804
+[     2722804] Z:\Family Pictures\Schier kamperen 2012\DSCN1059.JPG
+[     2722804] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5327.JPG
+Size: 2727197
+[     2727197] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2357.JPG
+[     2727197] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2357.JPG
+Size: 2727990
+[     2727990] Z:\Family Pictures\Schier kamperen 2012\DSCN1170.JPG
+[     2727990] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2180.JPG
+Size: 2730657
+[     2730657] Z:\Family Pictures\Feestje Lis 2012\DSCN0657.JPG
+[     2730657] Z:\Family Pictures\Import alles 24 sept 2009\IMG_0166.JPG
+Size: 2730753
+[     2730753] Z:\Family Pictures\Snorkelen bij Opa\IMG_0546.JPG
+[     2730753] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5994.JPG
+Size: 2731735
+[     2731735] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9236.JPG
+[     2731735] Z:\Family Pictures\Verjaardag Lis op school\IMG_6323.JPG
+Size: 2736629
+[     2736629] Z:\Family Pictures\Zeilkamp Waolenwiert 2012-2\DSCN0794.JPG
+[     2736629] Z:\Family Pictures\Zeilkamp Waolenwiert 2012\DSCN0794.JPG
+Size: 2739932
+[     2739932] Z:\Family Pictures\Banden plakken\IMG_0723.JPG
+[     2739932] Z:\Family Pictures\Farewell Family Tripp-Foulds\IMG_0777.JPG
+Size: 2740125
+[     2740125] Z:\Family Pictures\Corsica 2010\IMG_0253.JPG
+[     2740125] Z:\Family Pictures\Thuis foto's Okt 2011\IMG_5408.JPG
+Size: 2742645
+[     2742645] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5833.JPG
+[     2742645] Z:\Family Pictures\Vierkamp 24 feb 2013-Lis en Jochem\DSCN1983.JPG
+Size: 2746492
+[     2746492] Z:\Family Pictures\Sneeuw 24 feb 2013\DSCN1919.JPG
+[     2746492] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5849.JPG
+Size: 2748551
+[     2748551] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2356.JPG
+[     2748551] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2356.JPG
+Size: 2748704
+[     2748704] Z:\Family Pictures\Lis op Zeilkamp 2012\DSCN0968.JPG
+[     2748704] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5766.JPG
+Size: 2749148
+[     2749148] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7926.JPG
+[     2749148] Z:\Family Pictures\Elijah 2012\DSCN1007.JPG
+Size: 2749376
+[     2749376] Z:\Family Pictures\Cirque du Tangram 2011\IMG_5257.JPG
+[     2749376] Z:\Family Pictures\Kertsdiner 2012\DSCN1432.JPG
+Size: 2749823
+[     2749823] Z:\Family Pictures\Foto's van dias-oud en ouder\DS060205123330.jpg
+[     2749823] Z:\Family Pictures\Import 20111018 fotos\IMG_5048.JPG
+Size: 2756834
+[     2756834] Z:\Family Pictures\Blijdorp 2012\DSCN0130.JPG
+[     2756834] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2176.JPG
+Size: 2757273
+[     2757273] Z:\Family Pictures\KalenderOmi\IMG_0128.jpg
+[     2757273] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0128.jpg
+[     2757273] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0128.JPG
+Size: 2757451
+[     2757451] Z:\Family Pictures\Kittens in de bocht\DSCN2285.JPG
+[     2757451] Z:\Family Pictures\Verjaardag Jochem 2009\IMG_8007.JPG
+Size: 2759416
+[     2759416] Z:\Family Pictures\Madeira 2012\DSCN0773.JPG
+[     2759416] Z:\Family Pictures\Sinterklaas 2008 Thuis\IMG_7439.JPG
+Size: 2760973
+[     2760973] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2504.JPG
+[     2760973] Z:\Family Pictures\Vakantie Zweden 2011\IMG_3544.JPG
+Size: 2765172
+[     2765172] Z:\Family Pictures\Blijdorp 2012\DSCN0166.JPG
+[     2765172] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1439.JPG
+Size: 2767801
+[     2767801] Z:\Family Pictures\Bellwald 2007-2008\IMG_5394.JPG
+[     2767801] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1566.JPG
+Size: 2775394
+[     2775394] Z:\Family Pictures\Blijdorp 2012\DSCN0176.JPG
+[     2775394] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN4935.JPG
+Size: 2776237
+[     2776237] Z:\Family Pictures\Terras fotoos\IMG_0750.JPG
+[     2776237] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2057.JPG
+Size: 2776983
+[     2776983] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2138.JPG
+[     2776983] Z:\Family Pictures\Verjaardag Jochem Feestje 2013\DSCN2143.JPG
+Size: 2777200
+[     2777200] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2291.JPG
+[     2777200] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2291.JPG
+Size: 2777468
+[     2777468] Z:\Family Pictures\Madeira 2012\DSCN0332.JPG
+[     2777468] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5214.JPG
+Size: 2780556
+[     2780556] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6291.JPG
+[     2780556] Z:\Family Pictures\Wicked en Scheveningen\DSCN0840.JPG
+Size: 2783761
+[     2783761] Z:\Family Pictures\Ballet Lis 2007\IMG_3994.JPG
+[     2783761] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5658.JPG
+Size: 2785062
+[     2785062] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5482.JPG
+[     2785062] Z:\Family Pictures\Zeilvakantie Kroatie 2013 Nikon\DSCN2374.JPG
+Size: 2787602
+[     2787602] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6351.JPG
+[     2787602] Z:\Family Pictures\Verjaardag Jochem 2010\IMG_2204.JPG
+Size: 2788946
+[     2788946] Z:\Family Pictures\Blijdorp 2012\DSCN0068.JPG
+[     2788946] Z:\Family Pictures\Import kleine camera 19 mei 2011\IMG_2802.JPG
+Size: 2794281
+[     2794281] Z:\Family Pictures\Import 17 February 2007\IMG_3046.JPG
+[     2794281] Z:\Family Pictures\Kamp Lis 2010\DSC08873.JPG
+Size: 2801946
+[     2801946] Z:\Family Pictures\Backup Camera Klein 20150502\DSCN6169.JPG
+[     2801946] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1534.JPG
+Size: 2802621
+[     2802621] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2439.JPG
+[     2802621] Z:\Family Pictures\Diversen Nikon 2013-01\DSCN2679.JPG
+Size: 2805269
+[     2805269] Z:\Family Pictures\Blijdorp 2012\DSCN0138.JPG
+[     2805269] Z:\Family Pictures\Uitreiking Cheque Stop Tetanus\DSCN0893.JPG
+Size: 2815215
+[     2815215] Z:\Family Pictures\XMass eve 2005 (24dec)\IMG_0033-1.jpg
+[     2815215] Z:\Family Pictures\XMass eve 2005 (24dec)\IMG_0033.JPG
+Size: 2827395
+[     2827395] Z:\Family Pictures\Kerstboom opzetten 2010\IMG_3357.JPG
+[     2827395] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5174.JPG
+[     2827395] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5578.JPG
+Size: 2838681
+[     2838681] Z:\Family Pictures\Konijnen 2012\DSCN0206.JPG
+[     2838681] Z:\Family Pictures\Konijnen 2012\DSCN0217.JPG
+Size: 2850118
+[     2850118] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1570.JPG
+[     2850118] Z:\Family Pictures\Sneeuw 24 feb 2013\DSCN1909.JPG
+Size: 2856090
+[     2856090] Z:\Family Pictures\Blijdorp 2012\DSCN0089.JPG
+[     2856090] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4425.JPG
+Size: 2861693
+[     2861693] Z:\Family Pictures\Bellwald 2009-2010\IMG_1266.JPG
+[     2861693] Z:\Family Pictures\Kamp Lis 2010\DSC08871.JPG
+Size: 2871261
+[     2871261] Z:\Family Pictures\Groeve 't Rooth\DSCN1153.JPG
+[     2871261] Z:\Family Pictures\Vakantie USA 2014 Dump\DSCN5796.JPG
+Size: 2875283
+[     2875283] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0067.jpg
+[     2875283] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0067.JPG
+Size: 2884955
+[     2884955] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7673.JPG
+[     2884955] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4148.JPG
+Size: 2888894
+[     2888894] Z:\Family Pictures\Backup Camera Lis 20150502\272CANON\IMG_7278.JPG
+[     2888894] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4209.JPG
+Size: 2905332
+[     2905332] Z:\Family Pictures\Bellwald 2007-2008\IMG_5395.JPG
+[     2905332] Z:\Family Pictures\Import 8 juni 2011\IMG_3075.JPG
+Size: 2906950
+[     2906950] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2303.JPG
+[     2906950] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2303.JPG
+Size: 2912795
+[     2912795] Z:\Family Pictures\Corsica 2010\IMG_0184.JPG
+[     2912795] Z:\Family Pictures\Fotos thuis mei aug 2011\IMG_4966.JPG
+Size: 2923878
+[     2923878] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7843.JPG
+[     2923878] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9107.JPG
+Size: 2924454
+[     2924454] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9063.JPG
+[     2924454] Z:\Family Pictures\Lis jarig 2009\IMG_8570.JPG
+Size: 2934428
+[     2934428] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7759.JPG
+[     2934428] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9172.JPG
+Size: 2944336
+[     2944336] Z:\Family Pictures\Schiermonnikoog zomer 2011\IMG_5380.JPG
+[     2944336] Z:\Family Pictures\Truus, Mevrouw de Heks en Zeilles 2\IMG_2823.JPG
+Size: 2961904
+[     2961904] Z:\Family Pictures\Verjaardag Jochem 2010\IMG_2238.JPG
+[     2961904] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4100.JPG
+Size: 2977131
+[     2977131] Z:\Family Pictures\Backup Camera Lis 20150502\262CANON\IMG_6264.JPG
+[     2977131] Z:\Family Pictures\Kamp Lis 2009\IMG_0468.JPG
+Size: 2987651
+[     2987651] Z:\Family Pictures\Backup Camera Lis 20150502\273CANON\IMG_7390.JPG
+[     2987651] Z:\Family Pictures\LKB Eerste keer juni 2009\IMG_9485.JPG
+Size: 2990500
+[     2990500] Z:\Family Pictures\LKB Eerste keer juni 2009\IMG_9543.JPG
+[     2990500] Z:\Family Pictures\Verjaardag Opa 2009\IMG_8996.JPG
+Size: 2994540
+[     2994540] Z:\Family Pictures\Import alles 24 sept 2009\IMG_0035.JPG
+[     2994540] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4178.JPG
+Size: 3008200
+[     3008200] Z:\Family Pictures\Kamp Lis\IMG_4487.JPG
+[     3008200] Z:\Family Pictures\Zeeland Domburg\IMG_2693.JPG
+Size: 3008516
+[     3008516] Z:\Family Pictures\Carnaval Tangram 2 2010\IMG_2091.JPG
+[     3008516] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1728.JPG
+Size: 3014656
+[     3014656] Z:\Family Pictures\Farewell Family Tripp-Foulds\IMG_0772.JPG
+[     3014656] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2347.JPG
+Size: 3023346
+[     3023346] Z:\Family Pictures\Foto's Tangram Kunstroute\IMG_9188.JPG
+[     3023346] Z:\Family Pictures\Zwemdiploma B Lis\IMG_5741.JPG
+Size: 3039835
+[     3039835] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7953.JPG
+[     3039835] Z:\Family Pictures\Backup Camera Lis 20150502\271CANON\IMG_7119.JPG
+Size: 3052127
+[     3052127] Z:\Family Pictures\Ballet Lis\IMG_4993.JPG
+[     3052127] Z:\Family Pictures\Kerstavond 2008\IMG_7657.JPG
+[     3052127] Z:\Family Pictures\Zeeland Domburg\IMG_2708.JPG
+Size: 3076870
+[     3076870] Z:\Family Pictures\Import 17 February 2007\IMG_3067.JPG
+[     3076870] Z:\Family Pictures\Import 6 aug 2007\IMG_4239.JPG
+Size: 3099903
+[     3099903] Z:\Family Pictures\Import 9 april 2007\IMG_3239.JPG
+[     3099903] Z:\Family Pictures\Kamp Lis\IMG_4571.JPG
+Size: 3133243
+[     3133243] Z:\Family Pictures\Tangram Kerst 2007\IMG_5077.JPG
+[     3133243] Z:\Family Pictures\Tangram Sinterklaas 2007\IMG_4869.JPG
+Size: 3136452
+[     3136452] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2307.JPG
+[     3136452] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2307.JPG
+Size: 3139196
+[     3139196] Z:\Family Pictures\Holland_Mai_2011\IMGP0361.jpg
+[     3139196] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0361.jpg
+Size: 3145801
+[     3145801] Z:\Family Pictures\Import 25 april 2008\IMG_5804.JPG
+[     3145801] Z:\Family Pictures\Verjaardag Lis 2006\IMG_1128.JPG
+Size: 3145913
+[     3145913] Z:\Family Pictures\Import 9 april 2007\IMG_3233.JPG
+[     3145913] Z:\Family Pictures\Verjaardagsfeestje Jochem 2011\IMG_4027.JPG
+Size: 3147025
+[     3147025] Z:\Family Pictures\Holland_Mai_2011\IMGP0186.jpg
+[     3147025] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0186.jpg
+Size: 3148017
+[     3148017] Z:\Family Pictures\Import 17 February 2007\IMG_3073.JPG
+[     3148017] Z:\Family Pictures\Kamp Lis 2009\IMG_0607.JPG
+Size: 3150055
+[     3150055] Z:\Family Pictures\Jarige Jochem 2011\IMG_3864.JPG
+[     3150055] Z:\Family Pictures\Schiermonnikoog zomer 2011\IMG_5181.JPG
+Size: 3150754
+[     3150754] Z:\Family Pictures\Import 25 april 2008\IMG_5796.JPG
+[     3150754] Z:\Family Pictures\Wintersport Bellwald 2008-2009\IMG_7835.JPG
+Size: 3159259
+[     3159259] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2298.JPG
+[     3159259] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2298.JPG
+Size: 3160229
+[     3160229] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6577.JPG
+[     3160229] Z:\Family Pictures\Truus\IMG_8303.JPG
+Size: 3160912
+[     3160912] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2304.JPG
+[     3160912] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2304.JPG
+Size: 3211772
+[     3211772] Z:\Family Pictures\KalenderOmi\557.jpg
+[     3211772] Z:\Family Pictures\KalenderOpa&OmaZ\557.jpg
+Size: 3223000
+[     3223000] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1579.JPG
+[     3223000] Z:\Family Pictures\Verjaardag Jochem op school 2010\IMG_2355.JPG
+Size: 3226744
+[     3226744] Z:\Family Pictures\Import 8 juni 2011\IMG_2979.JPG
+[     3226744] Z:\Family Pictures\Verjaardagsfeest Jochem 3 jaar\IMG_5722.JPG
+Size: 3227184
+[     3227184] Z:\Family Pictures\Holland_Mai_2011\IMGP0177.jpg
+[     3227184] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0177.jpg
+Size: 3234627
+[     3234627] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2353.JPG
+[     3234627] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2353.JPG
+Size: 3236027
+[     3236027] Z:\Family Pictures\De eerste sneeuw van het jaar\IMG_7305.JPG
+[     3236027] Z:\Family Pictures\Pasen 2010\IMG_2681.JPG
+Size: 3238187
+[     3238187] Z:\Family Pictures\Cosmo en Tillie op de Peatfarm\IMG_8906.JPG
+[     3238187] Z:\Family Pictures\import 2 juli 2006\IMG_1287.JPG
+Size: 3238612
+[     3238612] Z:\Family Pictures\Backup Camera Lis 20150502\273CANON\IMG_7361.JPG
+[     3238612] Z:\Family Pictures\Uitdelen Tangram Jochem 2011\IMG_3899.JPG
+Size: 3241501
+[     3241501] Z:\Family Pictures\Kerstavond 2008\IMG_7671.JPG
+[     3241501] Z:\Family Pictures\Tangram Sinterklaas 2007\IMG_4865.JPG
+Size: 3242190
+[     3242190] Z:\Family Pictures\Import 1 oktober 2006\IMG_2175.JPG
+[     3242190] Z:\Family Pictures\Lis&jochemsept-nov06 inclEfteling\IMG_2378.JPG
+Size: 3243527
+[     3243527] Z:\Family Pictures\Holland_Mai_2011\IMGP0180.jpg
+[     3243527] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0180.jpg
+Size: 3243835
+[     3243835] Z:\Family Pictures\KalenderOmi\IMG_0130.jpg
+[     3243835] Z:\Family Pictures\Oud en nieuw 2005-2006\IMG_0130.JPG
+Size: 3246190
+[     3246190] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1940.JPG
+[     3246190] Z:\Family Pictures\Jarige Jochem 2011\IMG_3866.JPG
+Size: 3246281
+[     3246281] Z:\Family Pictures\Kerst 2010\IMG_3447.JPG
+[     3246281] Z:\Family Pictures\Verjaardag Lis 2011\IMG_4795.JPG
+Size: 3250239
+[     3250239] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0060.jpg
+[     3250239] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0060.JPG
+Size: 3250552
+[     3250552] Z:\Family Pictures\2015-08-07 Backup Canon 350D\IMG_7922.JPG
+[     3250552] Z:\Family Pictures\De boom opzetten 2008\IMG_7583.JPG
+Size: 3252472
+[     3252472] Z:\Family Pictures\Holland_Mai_2011\IMGP0322.jpg
+[     3252472] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0322.jpg
+Size: 3254982
+[     3254982] Z:\Family Pictures\Backup Camera Lis 20150502\264CANON\IMG_6467.JPG
+[     3254982] Z:\Family Pictures\Eerste schoolochtend Jochem\IMG_8202.JPG
+Size: 3289779
+[     3289779] Z:\Family Pictures\Sinterklaas Gronsveld 2009\IMG_0984.JPG
+[     3289779] Z:\Family Pictures\Vierhouten Pa en Ma 55 jaar huwelijk\IMG_4615.JPG
+Size: 3290260
+[     3290260] Z:\Family Pictures\Backup Camera Lis 20150502\272CANON\IMG_7295.JPG
+[     3290260] Z:\Family Pictures\Uitdelen Tangram Jochem 2011\IMG_3902.JPG
+Size: 3291898
+[     3291898] Z:\Family Pictures\Import 11 mei 2007\IMG_3577.JPG
+[     3291898] Z:\Family Pictures\Jochem Zwemdiploma A\IMG_3365.JPG
+Size: 3306188
+[     3306188] Z:\Family Pictures\Sinterklaas Oppendopke 2006\IMG_2750.JPG
+[     3306188] Z:\Family Pictures\Verjaardag Opa 2009\IMG_8985.JPG
+Size: 3313503
+[     3313503] Z:\Family Pictures\Verjaardag Lis 2006\IMG_1091.JPG
+[     3313503] Z:\Family Pictures\WK Finale 2010\IMG_3137.JPG
+Size: 3320477
+[     3320477] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2264.JPG
+[     3320477] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2264.JPG
+Size: 3331006
+[     3331006] Z:\Family Pictures\Lis Verjaardagsfeest 2009\IMG_8731.JPG
+[     3331006] Z:\Family Pictures\Vakantie Zweden 2011\IMG_4008.JPG
+Size: 3343987
+[     3343987] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0085.jpg
+[     3343987] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0085.JPG
+Size: 3354743
+[     3354743] Z:\Family Pictures\Verjaardag Jochem 2010\IMG_2163.JPG
+[     3354743] Z:\Family Pictures\Verjaardag Jochem op school 2010\IMG_2307.JPG
+Size: 3365140
+[     3365140] Z:\Family Pictures\Carnaval Tangram 2 2010\IMG_2070.JPG
+[     3365140] Z:\Family Pictures\Tuinieren 2010\IMG_1336.JPG
+Size: 3380173
+[     3380173] Z:\Family Pictures\Daan\IMG_0365.JPG
+[     3380173] Z:\Family Pictures\Sinterklaas Oppendopke 2008\IMG_7408.JPG
+Size: 3388011
+[     3388011] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1693.JPG
+[     3388011] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1874.JPG
+Size: 3393861
+[     3393861] Z:\Family Pictures\Kerstavond 2008\IMG_7707.JPG
+[     3393861] Z:\Family Pictures\Lis Verjaardagsfeest 2009\IMG_8737.JPG
+Size: 3414817
+[     3414817] Z:\Family Pictures\Bellwald 2007-2008\IMG_5479.JPG
+[     3414817] Z:\Family Pictures\Vierhouten Pa en Ma 55 jaar huwelijk\IMG_4675.JPG
+Size: 3420823
+[     3420823] Z:\Family Pictures\Holland_Mai_2011\IMGP0369.jpg
+[     3420823] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0369.jpg
+Size: 3422628
+[     3422628] Z:\Family Pictures\Verjaardagsfeestje Jochem 2010\IMG_2548.JPG
+[     3422628] Z:\Family Pictures\Zwembadfeest Lis 8 jaar\IMG_3037.JPG
+Size: 3436294
+[     3436294] Z:\Family Pictures\import 2 juli 2006\IMG_1289.JPG
+[     3436294] Z:\Family Pictures\LKB Eerste keer juni 2009\IMG_9387.JPG
+Size: 3463397
+[     3463397] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2293.JPG
+[     3463397] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2293.JPG
+Size: 3479962
+[     3479962] Z:\Family Pictures\Backup Camera Lis 20150502\269CANON\IMG_6964.JPG
+[     3479962] Z:\Family Pictures\Vakantie Frejus 2008\IMG_5928.JPG
+Size: 3514353
+[     3514353] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2295.JPG
+[     3514353] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2295.JPG
+Size: 3516410
+[     3516410] Z:\Family Pictures\Holland_Mai_2011\IMGP0346.jpg
+[     3516410] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0346.jpg
+Size: 3525139
+[     3525139] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2283.JPG
+[     3525139] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2283.JPG
+Size: 3531274
+[     3531274] Z:\Family Pictures\Tangram Carnaval 2011\IMG_4010.JPG
+[     3531274] Z:\Family Pictures\Wintersport 2006\IMG_0232.JPG
+Size: 3532621
+[     3532621] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2302.JPG
+[     3532621] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2302.JPG
+Size: 3550431
+[     3550431] Z:\Family Pictures\Kerst 2010\IMG_3448.JPG
+[     3550431] Z:\Family Pictures\Natuurfotografie Lis 2015-06-12\IMG_4235.JPG
+Size: 3551655
+[     3551655] Z:\Family Pictures\Kamp Lis 2011\IMG_5121.JPG
+[     3551655] Z:\Family Pictures\Lis maakt spiegels\IMG_0349.JPG
+Size: 3593924
+[     3593924] Z:\Family Pictures\Holland_Mai_2011\IMGP0347.jpg
+[     3593924] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0347.jpg
+Size: 3594354
+[     3594354] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6585.JPG
+[     3594354] Z:\Family Pictures\Wintersport Bellwald 2008-2009\IMG_7859.JPG
+Size: 3600712
+[     3600712] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6501 - kopie.JPG
+[     3600712] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6501.JPG
+Size: 3601307
+[     3601307] Z:\Family Pictures\Holland_Mai_2011\IMGP0370.jpg
+[     3601307] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0370.jpg
+Size: 3611981
+[     3611981] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0069.jpg
+[     3611981] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0069.JPG
+Size: 3629291
+[     3629291] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2300.JPG
+[     3629291] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2300.JPG
+Size: 3665800
+[     3665800] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2265.JPG
+[     3665800] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2265.JPG
+Size: 3669931
+[     3669931] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2341.JPG
+[     3669931] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2341.JPG
+Size: 3690318
+[     3690318] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2317.JPG
+[     3690318] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2317.JPG
+Size: 3698886
+[     3698886] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2319.JPG
+[     3698886] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2319.JPG
+Size: 3768320
+[     3768320] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2333.JPG
+[     3768320] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2333.JPG
+Size: 3770892
+[     3770892] Z:\Family Pictures\Holland_Mai_2011\DSC00988.jpg
+[     3770892] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00988.jpg
+Size: 3783841
+[     3783841] Z:\Family Pictures\Gala Tangram 2008\IMG_6628.JPG
+[     3783841] Z:\Family Pictures\Schiermonnikoog zomer 2011\IMG_5131.JPG
+Size: 3811314
+[     3811314] Z:\Family Pictures\Holland_Mai_2011\IMGP0360.jpg
+[     3811314] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0360.jpg
+Size: 3813501
+[     3813501] Z:\Family Pictures\KalenderOmi\IMG_0091.jpg
+[     3813501] Z:\Family Pictures\KalenderOpa&OmaZ\IMG_0091.jpg
+[     3813501] Z:\Family Pictures\XMass 2005 (25 dec)\IMG_0091.JPG
+Size: 3815650
+[     3815650] Z:\Family Pictures\Holland_Mai_2011\IMGP0196.jpg
+[     3815650] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0196.jpg
+Size: 3815653
+[     3815653] Z:\Family Pictures\KalenderOmi\541.jpg
+[     3815653] Z:\Family Pictures\KalenderOpa&OmaZ\541.jpg
+Size: 3837111
+[     3837111] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2260.JPG
+[     3837111] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2260.JPG
+Size: 3849714
+[     3849714] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2269.JPG
+[     3849714] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2269.JPG
+Size: 3875401
+[     3875401] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2368.JPG
+[     3875401] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2368.JPG
+Size: 3885997
+[     3885997] Z:\Family Pictures\Holland_Mai_2011\IMGP0364.jpg
+[     3885997] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0364.jpg
+Size: 3895792
+[     3895792] Z:\Family Pictures\Holland_Mai_2011\IMGP0352.jpg
+[     3895792] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0352.jpg
+Size: 3912627
+[     3912627] Z:\Family Pictures\Holland_Mai_2011\IMGP0365.jpg
+[     3912627] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0365.jpg
+Size: 3913246
+[     3913246] Z:\Family Pictures\Video Schier 2011\VIDEO0124.3gp
+[     3913246] Z:\Family Pictures\Videos Gaby Phone\VIDEO0124.3gp
+Size: 3948669
+[     3948669] Z:\Family Pictures\Vakantie Corsica 2009\IMG_8437.JPG
+[     3948669] Z:\Family Pictures\Zomervakantie 2015\IMG_5102.JPG
+Size: 3955099
+[     3955099] Z:\Family Pictures\Holland_Mai_2011\DSC00986.jpg
+[     3955099] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00986.jpg
+Size: 3966423
+[     3966423] Z:\Family Pictures\De tuin\IMG_3234.JPG
+[     3966423] Z:\Family Pictures\Truus, Mevrouw de Heks en Zeilles 2\IMG_2859.JPG
+Size: 3996293
+[     3996293] Z:\Family Pictures\Backup Camera Lis 20150502\266CANON\IMG_6659.JPG
+[     3996293] Z:\Family Pictures\Wintersport 2006\IMG_0220.JPG
+Size: 3997696
+[     3997696] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2364.JPG
+[     3997696] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2364.JPG
+Size: 4004032
+[     4004032] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2365.JPG
+[     4004032] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2365.JPG
+Size: 4009887
+[     4009887] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6502 - kopie.JPG
+[     4009887] Z:\Family Pictures\Backup Camera Lis 20150502\265CANON\IMG_6502.JPG
+Size: 4024252
+[     4024252] Z:\Family Pictures\maka\IMG_9938.JPG
+[     4024252] Z:\Family Pictures\Oppendopke Sinterklaas 24 nov 2007\IMG_4747.JPG
+Size: 4025807
+[     4025807] Z:\Family Pictures\De nacht van Maarland, hardlopen\IMG_7024.JPG
+[     4025807] Z:\Family Pictures\Elijah Melvin en Maaike 2013\IMG_2608.JPG
+Size: 4035604
+[     4035604] Z:\Family Pictures\Holland_Mai_2011\IMGP0072.jpg
+[     4035604] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0072.jpg
+Size: 4061558
+[     4061558] Z:\Family Pictures\Holland_Mai_2011\IMGP0399.jpg
+[     4061558] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0399.jpg
+Size: 4064259
+[     4064259] Z:\Family Pictures\Import Canon 350D Januari 2014\IMG_6122.JPG
+[     4064259] Z:\Family Pictures\Vakantie USA 2014 Dump\IMG_1638.JPG
+Size: 4065761
+[     4065761] Z:\Family Pictures\Holland_Mai_2011\DSC00989.jpg
+[     4065761] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00989.jpg
+Size: 4082604
+[     4082604] Z:\Family Pictures\Holland_Mai_2011\IMGP0068-2.jpg
+[     4082604] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0068-2.jpg
+Size: 4089764
+[     4089764] Z:\Family Pictures\Holland_Mai_2011\DSC00971.jpg
+[     4089764] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00971.jpg
+Size: 4113045
+[     4113045] Z:\Family Pictures\Holland_Mai_2011\DSC00958.jpg
+[     4113045] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00958.jpg
+Size: 4115432
+[     4115432] Z:\Family Pictures\Jochem Diploma B 2011\IMG_4345.JPG
+[     4115432] Z:\Family Pictures\Vakantie USA 2014 Dump\IMG_1311.JPG
+Size: 4118585
+[     4118585] Z:\Family Pictures\Holland_Mai_2011\IMGP0225.jpg
+[     4118585] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0225.jpg
+Size: 4121567
+[     4121567] Z:\Family Pictures\Holland_Mai_2011\IMGP0366.jpg
+[     4121567] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0366.jpg
+Size: 4132777
+[     4132777] Z:\Family Pictures\Holland_Mai_2011\IMGP0345.jpg
+[     4132777] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0345.jpg
+Size: 4139817
+[     4139817] Z:\Family Pictures\Holland_Mai_2011\IMGP0203.jpg
+[     4139817] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0203.jpg
+Size: 4153363
+[     4153363] Z:\Family Pictures\Holland_Mai_2011\IMGP0060.jpg
+[     4153363] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0060.jpg
+Size: 4177679
+[     4177679] Z:\Family Pictures\Holland_Mai_2011\DSC00984.jpg
+[     4177679] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00984.jpg
+Size: 4188220
+[     4188220] Z:\Family Pictures\Holland_Mai_2011\IMGP0237.jpg
+[     4188220] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0237.jpg
+Size: 4195550
+[     4195550] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2355.JPG
+[     4195550] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2355.JPG
+Size: 4218343
+[     4218343] Z:\Family Pictures\Holland_Mai_2011\IMGP0070.jpg
+[     4218343] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0070.jpg
+Size: 4231541
+[     4231541] Z:\Family Pictures\Holland_Mai_2011\IMGP0076.jpg
+[     4231541] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0076.jpg
+Size: 4244819
+[     4244819] Z:\Family Pictures\Holland_Mai_2011\DSC00969.jpg
+[     4244819] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00969.jpg
+Size: 4271728
+[     4271728] Z:\Family Pictures\Holland_Mai_2011\IMGP0065-2.jpg
+[     4271728] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0065-2.jpg
+Size: 4292708
+[     4292708] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2259.JPG
+[     4292708] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2259.JPG
+Size: 4303921
+[     4303921] Z:\Family Pictures\Holland_Mai_2011\DSC00991.jpg
+[     4303921] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00991.jpg
+Size: 4309161
+[     4309161] Z:\Family Pictures\Holland_Mai_2011\IMGP0069.jpg
+[     4309161] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0069.jpg
+Size: 4343204
+[     4343204] Z:\Family Pictures\Holland_Mai_2011\IMGP0074.jpg
+[     4343204] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0074.jpg
+Size: 4350516
+[     4350516] Z:\Family Pictures\Holland_Mai_2011\IMGP0127-2.jpg
+[     4350516] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0127-2.jpg
+Size: 4351995
+[     4351995] Z:\Family Pictures\Holland_Mai_2011\IMGP0084.jpg
+[     4351995] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0084.jpg
+Size: 4370144
+[     4370144] Z:\Family Pictures\Holland_Mai_2011\IMGP0271.jpg
+[     4370144] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0271.jpg
+Size: 4377027
+[     4377027] Z:\Family Pictures\Holland_Mai_2011\DSC00993.jpg
+[     4377027] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00993.jpg
+Size: 4394795
+[     4394795] Z:\Family Pictures\Holland_Mai_2011\DSC00981.jpg
+[     4394795] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00981.jpg
+Size: 4403514
+[     4403514] Z:\Family Pictures\Holland_Mai_2011\DSC00997.jpg
+[     4403514] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00997.jpg
+Size: 4408343
+[     4408343] Z:\Family Pictures\KalenderOmi\591.jpg
+[     4408343] Z:\Family Pictures\KalenderOpa&OmaZ\591.jpg
+Size: 4408610
+[     4408610] Z:\Family Pictures\Holland_Mai_2011\IMGP0175-2.jpg
+[     4408610] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0175-2.jpg
+Size: 4415922
+[     4415922] Z:\Family Pictures\Import 25 april 2008\IMG_5838.JPG
+[     4415922] Z:\Family Pictures\Import Canon 350D Januari 2014\IMG_6079.JPG
+Size: 4420668
+[     4420668] Z:\Family Pictures\Holland_Mai_2011\IMGP0187.jpg
+[     4420668] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0187.jpg
+Size: 4427774
+[     4427774] Z:\Family Pictures\Holland_Mai_2011\DSC00995.jpg
+[     4427774] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00995.jpg
+Size: 4435038
+[     4435038] Z:\Family Pictures\Holland_Mai_2011\IMGP0075-2.jpg
+[     4435038] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0075-2.jpg
+Size: 4439758
+[     4439758] Z:\Family Pictures\Holland_Mai_2011\DSC00965.jpg
+[     4439758] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00965.jpg
+Size: 4454197
+[     4454197] Z:\Family Pictures\Holland_Mai_2011\DSC00983.jpg
+[     4454197] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00983.jpg
+Size: 4454447
+[     4454447] Z:\Family Pictures\Holland_Mai_2011\IMGP0342.jpg
+[     4454447] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0342.jpg
+Size: 4470229
+[     4470229] Z:\Family Pictures\Holland_Mai_2011\IMGP0227.jpg
+[     4470229] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0227.jpg
+Size: 4476540
+[     4476540] Z:\Family Pictures\Holland_Mai_2011\IMGP0063.jpg
+[     4476540] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0063.jpg
+Size: 4488276
+[     4488276] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2373.JPG
+[     4488276] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2373-1.JPG
+[     4488276] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2373.JPG
+Size: 4517713
+[     4517713] Z:\Family Pictures\Holland_Mai_2011\DSC00982.jpg
+[     4517713] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00982.jpg
+Size: 4527242
+[     4527242] Z:\Family Pictures\Holland_Mai_2011\IMGP0329.jpg
+[     4527242] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0329.jpg
+Size: 4534901
+[     4534901] Z:\Family Pictures\Holland_Mai_2011\IMGP0220.jpg
+[     4534901] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0220.jpg
+Size: 4535988
+[     4535988] Z:\Family Pictures\Holland_Mai_2011\DSC00996.jpg
+[     4535988] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00996.jpg
+Size: 4544535
+[     4544535] Z:\Family Pictures\Holland_Mai_2011\DSC00994.jpg
+[     4544535] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00994.jpg
+Size: 4558062
+[     4558062] Z:\Family Pictures\Holland_Mai_2011\DSC00968.jpg
+[     4558062] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00968.jpg
+Size: 4575255
+[     4575255] Z:\Family Pictures\Holland_Mai_2011\DSC00998.jpg
+[     4575255] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00998.jpg
+Size: 4576172
+[     4576172] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5475.JPG
+[     4576172] Z:\Family Pictures\Elijah Melvin en Maaike 2013\IMG_2605.JPG
+Size: 4590304
+[     4590304] Z:\Family Pictures\Holland_Mai_2011\IMGP0335.jpg
+[     4590304] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0335.jpg
+Size: 4590927
+[     4590927] Z:\Family Pictures\Holland_Mai_2011\IMGP0064.jpg
+[     4590927] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0064.jpg
+Size: 4601988
+[     4601988] Z:\Family Pictures\Holland_Mai_2011\IMGP0103.jpg
+[     4601988] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0103.jpg
+Size: 4602047
+[     4602047] Z:\Family Pictures\Holland_Mai_2011\IMGP0333.jpg
+[     4602047] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0333.jpg
+Size: 4617119
+[     4617119] Z:\Family Pictures\Holland_Mai_2011\IMGP0223.jpg
+[     4617119] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0223.jpg
+Size: 4628849
+[     4628849] Z:\Family Pictures\Holland_Mai_2011\IMGP0324.jpg
+[     4628849] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0324.jpg
+Size: 4637370
+[     4637370] Z:\Family Pictures\Holland_Mai_2011\IMGP0179.jpg
+[     4637370] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0179.jpg
+Size: 4657923
+[     4657923] Z:\Family Pictures\Holland_Mai_2011\IMGP0272.jpg
+[     4657923] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0272.jpg
+Size: 4661201
+[     4661201] Z:\Family Pictures\Holland_Mai_2011\IMGP0224.jpg
+[     4661201] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0224.jpg
+Size: 4674008
+[     4674008] Z:\Family Pictures\Holland_Mai_2011\DSC00963.jpg
+[     4674008] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00963.jpg
+Size: 4688749
+[     4688749] Z:\Family Pictures\Holland_Mai_2011\IMGP0099.jpg
+[     4688749] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0099.jpg
+Size: 4689939
+[     4689939] Z:\Family Pictures\2015-08-07 Backup Canon 600D\IMG_4380.JPG
+[     4689939] Z:\Family Pictures\2015-08-07 Backup Canon 600D\IMG_4412.JPG
+Size: 4692101
+[     4692101] Z:\Family Pictures\Holland_Mai_2011\IMGP0372.jpg
+[     4692101] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0372.jpg
+Size: 4693917
+[     4693917] Z:\Family Pictures\Holland_Mai_2011\DSC00916.jpg
+[     4693917] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00916.jpg
+Size: 4697718
+[     4697718] Z:\Family Pictures\Holland_Mai_2011\IMGP0114.jpg
+[     4697718] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0114.jpg
+Size: 4705775
+[     4705775] Z:\Family Pictures\Holland_Mai_2011\DSC00976.jpg
+[     4705775] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00976.jpg
+Size: 4712353
+[     4712353] Z:\Family Pictures\Holland_Mai_2011\IMGP0362.jpg
+[     4712353] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0362.jpg
+Size: 4738602
+[     4738602] Z:\Family Pictures\Bruiloft Robin en Wilco 2014\IMG_8762.JPG
+[     4738602] Z:\Family Pictures\Vakantie Zuid Frankrijk argeles sur mer\IMG_0883.JPG
+Size: 4757409
+[     4757409] Z:\Family Pictures\import 2 juli 2006\IMG_1508.JPG
+[     4757409] Z:\Family Pictures\Zeilvakantie Kroatie 2013\IMG_0208.JPG
+Size: 4792275
+[     4792275] Z:\Family Pictures\Holland_Mai_2011\IMGP0016.jpg
+[     4792275] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0016.jpg
+Size: 4808997
+[     4808997] Z:\Family Pictures\Holland_Mai_2011\IMGP0229.jpg
+[     4808997] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0229.jpg
+Size: 4827061
+[     4827061] Z:\Family Pictures\Holland_Mai_2011\IMGP0124-2.jpg
+[     4827061] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0124-2.jpg
+Size: 4846581
+[     4846581] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_1098.JPG
+[     4846581] Z:\Family Pictures\Natuurfotografie Lis 2015-05-24\IMG_3691.JPG
+Size: 4886582
+[     4886582] Z:\Family Pictures\Holland_Mai_2011\IMGP0081-2.jpg
+[     4886582] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0081-2.jpg
+Size: 4903334
+[     4903334] Z:\Family Pictures\Huwelijk Karin en Jan\IMG_1371.JPG
+[     4903334] Z:\Family Pictures\Zeilvakantie Kroatie 2013\IMG_0605.JPG
+Size: 4912843
+[     4912843] Z:\Family Pictures\Holland_Mai_2011\IMGP0323.jpg
+[     4912843] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0323.jpg
+Size: 4915105
+[     4915105] Z:\Family Pictures\Dierentuin 10 mei 2006\IMG_1043.JPG
+[     4915105] Z:\Family Pictures\Fotos Lis met veel katten\IMG_7901.JPG
+Size: 4926071
+[     4926071] Z:\Family Pictures\2015-08-07 Backup Canon 600D\IMG_4493.JPG
+[     4926071] Z:\Family Pictures\Zeilvakantie Kroatie 2013\IMG_0442.JPG
+Size: 4933395
+[     4933395] Z:\Family Pictures\Holland_Mai_2011\IMGP0420.jpg
+[     4933395] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0420.jpg
+Size: 4937010
+[     4937010] Z:\Family Pictures\Holland_Mai_2011\IMGP0123-2.jpg
+[     4937010] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0123-2.jpg
+Size: 4973479
+[     4973479] Z:\Family Pictures\Holland_Mai_2011\IMGP0086.jpg
+[     4973479] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0086.jpg
+Size: 4992959
+[     4992959] Z:\Family Pictures\Elijah Melvin en Maaike 2013\IMG_2716.JPG
+[     4992959] Z:\Family Pictures\Verjaardag Lis 2006\IMG_1223.JPG
+Size: 5009934
+[     5009934] Z:\Family Pictures\Holland_Mai_2011\IMGP0221.jpg
+[     5009934] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0221.jpg
+Size: 5010709
+[     5010709] Z:\Family Pictures\Holland_Mai_2011\IMGP0337.jpg
+[     5010709] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0337.jpg
+Size: 5026231
+[     5026231] Z:\Family Pictures\2015-08-07 Backup Canon 600D\IMG_4516.JPG
+[     5026231] Z:\Family Pictures\Import Canon 350D Januari 2014\IMG_6149.JPG
+Size: 5037816
+[     5037816] Z:\Family Pictures\Holland_Mai_2011\IMGP0341.jpg
+[     5037816] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0341.jpg
+Size: 5058633
+[     5058633] Z:\Family Pictures\KalenderOmi\617.jpg
+[     5058633] Z:\Family Pictures\KalenderOpa&OmaZ\617.jpg
+Size: 5071576
+[     5071576] Z:\Family Pictures\Holland_Mai_2011\IMGP0098-2.jpg
+[     5071576] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0098-2.jpg
+Size: 5084866
+[     5084866] Z:\Family Pictures\.Picasa3Temp\IMG_1895.JPG
+[     5084866] Z:\Family Pictures\Jochem tafelhut\IMG_1895.JPG
+Size: 5092721
+[     5092721] Z:\Family Pictures\Holland_Mai_2011\DSC00943.jpg
+[     5092721] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00943.jpg
+Size: 5097865
+[     5097865] Z:\Family Pictures\Holland_Mai_2011\DSC00985.jpg
+[     5097865] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00985.jpg
+Size: 5140176
+[     5140176] Z:\Family Pictures\Import 25 april 2008\IMG_5847.JPG
+[     5140176] Z:\Family Pictures\Natuurfotografie Lis 2015-05-24\IMG_3797.JPG
+Size: 5152606
+[     5152606] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5392.JPG
+[     5152606] Z:\Family Pictures\WNF Fotos 2015\IMG_5392.JPG
+Size: 5177407
+[     5177407] Z:\Family Pictures\Fotos Lis met veel katten\IMG_6742.JPG
+[     5177407] Z:\Family Pictures\Lis Jarig 2014\IMG_9306.JPG
+Size: 5189252
+[     5189252] Z:\Family Pictures\Holland_Mai_2011\DSC00972.jpg
+[     5189252] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00972.jpg
+Size: 5193321
+[     5193321] Z:\Family Pictures\.Picasa3Temp\IMG_2046.JPG
+[     5193321] Z:\Family Pictures\Kerst Tangram 2014\IMG_2046.JPG
+Size: 5252235
+[     5252235] Z:\Family Pictures\Holland_Mai_2011\IMGP0415.jpg
+[     5252235] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0415.jpg
+Size: 5252688
+[     5252688] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5391.JPG
+[     5252688] Z:\Family Pictures\WNF Fotos 2015\IMG_5391.JPG
+Size: 5258006
+[     5258006] Z:\Family Pictures\Holland_Mai_2011\IMGP0078.jpg
+[     5258006] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0078.jpg
+Size: 5270273
+[     5270273] Z:\Family Pictures\Holland_Mai_2011\IMGP0024.jpg
+[     5270273] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0024.jpg
+Size: 5284906
+[     5284906] Z:\Family Pictures\Holland_Mai_2011\IMGP0230.jpg
+[     5284906] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0230.jpg
+Size: 5312933
+[     5312933] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5390.JPG
+[     5312933] Z:\Family Pictures\WNF Fotos 2015\IMG_5390.JPG
+Size: 5319617
+[     5319617] Z:\Family Pictures\.Picasa3Temp\IMG_2045.JPG
+[     5319617] Z:\Family Pictures\Kerst Tangram 2014\IMG_2045.JPG
+Size: 5333556
+[     5333556] Z:\Family Pictures\Holland_Mai_2011\IMGP0106.jpg
+[     5333556] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0106.jpg
+Size: 5333578
+[     5333578] Z:\Family Pictures\.Picasa3Temp\IMG_2037.JPG
+[     5333578] Z:\Family Pictures\Plankenboom maken\IMG_2037.JPG
+Size: 5371157
+[     5371157] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5399.JPG
+[     5371157] Z:\Family Pictures\WNF Fotos 2015\IMG_5399.JPG
+Size: 5383717
+[     5383717] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5394.JPG
+[     5383717] Z:\Family Pictures\WNF Fotos 2015\IMG_5394.JPG
+Size: 5386846
+[     5386846] Z:\Family Pictures\.Picasa3Temp\IMG_2048.JPG
+[     5386846] Z:\Family Pictures\Kerst Tangram 2014\IMG_2048.JPG
+Size: 5387762
+[     5387762] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5395.JPG
+[     5387762] Z:\Family Pictures\WNF Fotos 2015\IMG_5395.JPG
+Size: 5405266
+[     5405266] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5398.JPG
+[     5405266] Z:\Family Pictures\WNF Fotos 2015\IMG_5398.JPG
+Size: 5413310
+[     5413310] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5397.JPG
+[     5413310] Z:\Family Pictures\WNF Fotos 2015\IMG_5397.JPG
+Size: 5416318
+[     5416318] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_1196.JPG
+[     5416318] Z:\Family Pictures\Vakantie Corsica 2009\IMG_8391.JPG
+Size: 5434046
+[     5434046] Z:\Family Pictures\Holland_Mai_2011\IMGP0232.jpg
+[     5434046] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0232.jpg
+Size: 5448590
+[     5448590] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_0890.JPG
+[     5448590] Z:\Family Pictures\Liv Logeren Feb 2015 Carnaval\IMG_2539.JPG
+Size: 5461733
+[     5461733] Z:\Family Pictures\Holland_Mai_2011\IMGP0338.jpg
+[     5461733] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0338.jpg
+Size: 5467081
+[     5467081] Z:\Family Pictures\.Picasa3Temp\IMG_2044.JPG
+[     5467081] Z:\Family Pictures\Kerst Tangram 2014\IMG_2044.JPG
+Size: 5474970
+[     5474970] Z:\Family Pictures\Holland_Mai_2011\IMGP0148-2.jpg
+[     5474970] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0148-2.jpg
+Size: 5481554
+[     5481554] Z:\Family Pictures\.Picasa3Temp\IMG_2039.JPG
+[     5481554] Z:\Family Pictures\Plankenboom maken\IMG_2039.JPG
+Size: 5494412
+[     5494412] Z:\Family Pictures\.Picasa3Temp\IMG_2047.JPG
+[     5494412] Z:\Family Pictures\Kerst Tangram 2014\IMG_2047.JPG
+Size: 5510511
+[     5510511] Z:\Family Pictures\Holland_Mai_2011\IMGP0279.jpg
+[     5510511] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0279.jpg
+Size: 5528068
+[     5528068] Z:\Family Pictures\Amsterdam Hans Klok en Rijksmuseum 2013\IMG_2099.JPG
+[     5528068] Z:\Family Pictures\Zomervakantie 2015\IMG_4717.JPG
+Size: 5548516
+[     5548516] Z:\Family Pictures\Holland_Mai_2011\IMGP0282.jpg
+[     5548516] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0282.jpg
+Size: 5565685
+[     5565685] Z:\Family Pictures\Holland_Mai_2011\IMGP0150.jpg
+[     5565685] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0150.jpg
+Size: 5565913
+[     5565913] Z:\Family Pictures\Holland_Mai_2011\IMGP0262.jpg
+[     5565913] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0262.jpg
+Size: 5567198
+[     5567198] Z:\Family Pictures\Holland_Mai_2011\IMGP0025.jpg
+[     5567198] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0025.jpg
+Size: 5571285
+[     5571285] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5386.JPG
+[     5571285] Z:\Family Pictures\WNF Fotos 2015\IMG_5386.JPG
+Size: 5610123
+[     5610123] Z:\Family Pictures\Holland_Mai_2011\DSC00945.jpg
+[     5610123] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00945.jpg
+Size: 5613006
+[     5613006] Z:\Family Pictures\Holland_Mai_2011\IMGP0234.jpg
+[     5613006] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0234.jpg
+Size: 5631470
+[     5631470] Z:\Family Pictures\Holland_Mai_2011\DSC00973.jpg
+[     5631470] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00973.jpg
+Size: 5632826
+[     5632826] Z:\Family Pictures\Holland_Mai_2011\IMGP0116-2.jpg
+[     5632826] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0116-2.jpg
+Size: 5646287
+[     5646287] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_0556.JPG
+[     5646287] Z:\Family Pictures\Sint Lis Tangram 2013\IMG_5523.JPG
+Size: 5648622
+[     5648622] Z:\Family Pictures\Holland_Mai_2011\IMGP0412.jpg
+[     5648622] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0412.jpg
+Size: 5656292
+[     5656292] Z:\Family Pictures\Holland_Mai_2011\IMGP0286.jpg
+[     5656292] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0286.jpg
+Size: 5663299
+[     5663299] Z:\Family Pictures\Holland_Mai_2011\IMGP0404.jpg
+[     5663299] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0404.jpg
+Size: 5675244
+[     5675244] Z:\Family Pictures\Holland_Mai_2011\DSC00950.jpg
+[     5675244] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00950.jpg
+Size: 5706349
+[     5706349] Z:\Family Pictures\Holland_Mai_2011\IMGP0141.jpg
+[     5706349] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0141.jpg
+Size: 5754647
+[     5754647] Z:\Family Pictures\.Picasa3Temp\IMG_2042.JPG
+[     5754647] Z:\Family Pictures\Kerst Tangram 2014\IMG_2042.JPG
+Size: 5760054
+[     5760054] Z:\Family Pictures\2001-12-23 Gaby boom keuken 1.bmp
+[     5760054] Z:\Family Pictures\2001-12-23 Gaby boom keuken 2.bmp
+[     5760054] Z:\Family Pictures\2001-12-23 Gaby Goldy 1.bmp
+[     5760054] Z:\Family Pictures\2001-12-23 Goldy 2.bmp
+[     5760054] Z:\Family Pictures\2001-12-23 Goldy druipneus.bmp
+[     5760054] Z:\Family Pictures\2001-12-23 Goldy in tuin.bmp
+[     5760054] Z:\Family Pictures\Goldy 2001-2.bmp
+[     5760054] Z:\Family Pictures\Goldy 2001.bmp
+[     5760054] Z:\Family Pictures\Melvin 2001.bmp
+[     5760054] Z:\Family Pictures\Prive pictures\2001-12-23 boom in keuken.bmp
+Size: 5761976
+[     5761976] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5387.JPG
+[     5761976] Z:\Family Pictures\WNF Fotos 2015\IMG_5387.JPG
+Size: 5836186
+[     5836186] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5396.JPG
+[     5836186] Z:\Family Pictures\WNF Fotos 2015\IMG_5396.JPG
+Size: 5840819
+[     5840819] Z:\Family Pictures\Holland_Mai_2011\IMGP0257.jpg
+[     5840819] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0257.jpg
+Size: 5850544
+[     5850544] Z:\Family Pictures\Holland_Mai_2011\IMGP0280.jpg
+[     5850544] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0280.jpg
+Size: 5892670
+[     5892670] Z:\Family Pictures\Met Mia 2013\IMG_0708.JPG
+[     5892670] Z:\Family Pictures\Mia te logeren mei 2013\IMG_0708.JPG
+Size: 5902630
+[     5902630] Z:\Family Pictures\Holland_Mai_2011\IMGP0136.jpg
+[     5902630] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0136.jpg
+Size: 5910690
+[     5910690] Z:\Family Pictures\Holland_Mai_2011\IMGP0320.jpg
+[     5910690] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0320.jpg
+Size: 5911753
+[     5911753] Z:\Family Pictures\Holland_Mai_2011\IMGP0444.jpg
+[     5911753] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0444.jpg
+Size: 5913787
+[     5913787] Z:\Family Pictures\Sint Lis Tangram 2013\IMG_5565.JPG
+[     5913787] Z:\Family Pictures\Sint Lis Tangram 2013\IMG_5698.JPG
+Size: 5919108
+[     5919108] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2330.JPG
+[     5919108] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2330.JPG
+Size: 5936013
+[     5936013] Z:\Family Pictures\Met Mia 2013\IMG_0707.JPG
+[     5936013] Z:\Family Pictures\Mia te logeren mei 2013\IMG_0707.JPG
+Size: 5974311
+[     5974311] Z:\Family Pictures\Holland_Mai_2011\IMGP0244.jpg
+[     5974311] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0244.jpg
+Size: 5974481
+[     5974481] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5393.JPG
+[     5974481] Z:\Family Pictures\WNF Fotos 2015\IMG_5393.JPG
+Size: 5974501
+[     5974501] Z:\Family Pictures\Katten heel veel katten\IMG_6187.JPG
+[     5974501] Z:\Family Pictures\Zeilvakantie Kroatie 2013\IMG_0155.JPG
+Size: 5974872
+[     5974872] Z:\Family Pictures\Fotos Lis met veel katten\IMG_7213.JPG
+[     5974872] Z:\Family Pictures\Verjaardag Jochem 2014\IMG_8364.JPG
+Size: 5981143
+[     5981143] Z:\Family Pictures\Backup Camera Groot 20150502\100CANON\IMG_3369.JPG
+[     5981143] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5759.JPG
+Size: 5983383
+[     5983383] Z:\Family Pictures\Holland_Mai_2011\IMGP0385.jpg
+[     5983383] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0385.jpg
+Size: 5999554
+[     5999554] Z:\Family Pictures\Elijah Melvin en Maaike 2013\IMG_2759.JPG
+[     5999554] Z:\Family Pictures\Verjaardagfeest Lis 2013\IMG_1398.JPG
+Size: 5999615
+[     5999615] Z:\Family Pictures\Holland_Mai_2011\IMGP0319.jpg
+[     5999615] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0319.jpg
+Size: 6005347
+[     6005347] Z:\Family Pictures\Holland_Mai_2011\IMGP0249.jpg
+[     6005347] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0249.jpg
+Size: 6017187
+[     6017187] Z:\Family Pictures\Holland_Mai_2011\IMGP0401.jpg
+[     6017187] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0401.jpg
+Size: 6072128
+[     6072128] Z:\Family Pictures\Holland_Mai_2011\IMGP0429.jpg
+[     6072128] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0429.jpg
+Size: 6082305
+[     6082305] Z:\Family Pictures\Holland_Mai_2011\DSC00951.jpg
+[     6082305] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00951.jpg
+Size: 6088544
+[     6088544] Z:\Family Pictures\Holland_Mai_2011\DSC00948.jpg
+[     6088544] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00948.jpg
+Size: 6089955
+[     6089955] Z:\Family Pictures\Holland_Mai_2011\IMGP0042.jpg
+[     6089955] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0042.jpg
+Size: 6093342
+[     6093342] Z:\Family Pictures\Backup Camera Groot 20150502\100CANON\IMG_3265.JPG
+[     6093342] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_0448.JPG
+Size: 6096793
+[     6096793] Z:\Family Pictures\Holland_Mai_2011\IMGP0440.jpg
+[     6096793] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0440.jpg
+Size: 6103517
+[     6103517] Z:\Family Pictures\Elijah Melvin en Maaike 2013\IMG_2497.JPG
+[     6103517] Z:\Family Pictures\Sint Lis Tangram 2013\IMG_5577.JPG
+Size: 6113129
+[     6113129] Z:\Family Pictures\.Picasa3Temp\IMG_1917.JPG
+[     6113129] Z:\Family Pictures\Lis Zoe Anne\IMG_1917.JPG
+Size: 6132723
+[     6132723] Z:\Family Pictures\Met Mia 2013\IMG_0709.JPG
+[     6132723] Z:\Family Pictures\Mia te logeren mei 2013\IMG_0709.JPG
+Size: 6144699
+[     6144699] Z:\Family Pictures\Holland_Mai_2011\IMGP0296.jpg
+[     6144699] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0296.jpg
+Size: 6147862
+[     6147862] Z:\Family Pictures\Holland_Mai_2011\IMGP0435.jpg
+[     6147862] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0435.jpg
+Size: 6157747
+[     6157747] Z:\Family Pictures\Holland_Mai_2011\IMGP0300.jpg
+[     6157747] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0300.jpg
+Size: 6158470
+[     6158470] Z:\Family Pictures\Fotos Lis met veel katten\IMG_7613.JPG
+[     6158470] Z:\Family Pictures\Zomervakantie 2015\IMG_5083.JPG
+Size: 6172184
+[     6172184] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5700.JPG
+[     6172184] Z:\Family Pictures\Vierhouten Pa en Ma 55 jaar huwelijk\IMG_4568.JPG
+Size: 6179540
+[     6179540] Z:\Family Pictures\Holland_Mai_2011\IMGP0299.jpg
+[     6179540] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0299.jpg
+Size: 6192743
+[     6192743] Z:\Family Pictures\Holland_Mai_2011\IMGP0388.jpg
+[     6192743] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0388.jpg
+Size: 6215464
+[     6215464] Z:\Family Pictures\.Picasa3Temp\IMG_2036.JPG
+[     6215464] Z:\Family Pictures\Kat en hond\IMG_2036.JPG
+Size: 6216776
+[     6216776] Z:\Family Pictures\Vierhouten 2011 fotos Chris\IMG_2276.JPG
+[     6216776] Z:\Family Pictures\Vierhouten fotos Chris uitgezocht\IMG_2276.JPG
+Size: 6260187
+[     6260187] Z:\Family Pictures\Verjaardagfeest Lis 2013\IMG_1241.JPG
+[     6260187] Z:\Family Pictures\Zomervakantie 2015\IMG_5293.JPG
+Size: 6280380
+[     6280380] Z:\Family Pictures\Holland_Mai_2011\IMGP0233.jpg
+[     6280380] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0233.jpg
+Size: 6284578
+[     6284578] Z:\Family Pictures\Holland_Mai_2011\IMGP0050-2.jpg
+[     6284578] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0050-2.jpg
+Size: 6286908
+[     6286908] Z:\Family Pictures\Holland_Mai_2011\IMGP0087.jpg
+[     6286908] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0087.jpg
+Size: 6291954
+[     6291954] Z:\Family Pictures\Holland_Mai_2011\IMGP0044.jpg
+[     6291954] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0044.jpg
+Size: 6306787
+[     6306787] Z:\Family Pictures\Holland_Mai_2011\DSC00952.jpg
+[     6306787] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\DSC00952.jpg
+Size: 6335446
+[     6335446] Z:\Family Pictures\Camera dump 2015-10-11\IMG_5388.JPG
+[     6335446] Z:\Family Pictures\WNF Fotos 2015\IMG_5388.JPG
+Size: 6336955
+[     6336955] Z:\Family Pictures\Holland_Mai_2011\IMGP0139.jpg
+[     6336955] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0139.jpg
+Size: 6340864
+[     6340864] Z:\Family Pictures\Holland_Mai_2011\IMGP0208.jpg
+[     6340864] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0208.jpg
+Size: 6365967
+[     6365967] Z:\Family Pictures\Fotos Lis met veel katten\IMG_6709.JPG
+[     6365967] Z:\Family Pictures\Zeilvakantie Kroatie 2013\IMG_0390.JPG
+Size: 6383172
+[     6383172] Z:\Family Pictures\Iron Kids 2015\IMG_4007.JPG
+[     6383172] Z:\Family Pictures\Sinterklaas Jochem Hockeer 2014\IMG_1953.JPG
+Size: 6413750
+[     6413750] Z:\Family Pictures\Holland_Mai_2011\IMGP0432.jpg
+[     6413750] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0432.jpg
+Size: 6417952
+[     6417952] Z:\Family Pictures\Holland_Mai_2011\IMGP0161-2.jpg
+[     6417952] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0161-2.jpg
+Size: 6425300
+[     6425300] Z:\Family Pictures\Fotos Lis met veel katten\IMG_7392.JPG
+[     6425300] Z:\Family Pictures\Truus, Mevrouw de Heks en Zeilles 2\IMG_2838.JPG
+Size: 6428927
+[     6428927] Z:\Family Pictures\.Picasa3Temp\IMG_1916.JPG
+[     6428927] Z:\Family Pictures\Lis Zoe Anne\IMG_1916.JPG
+Size: 6435874
+[     6435874] Z:\Family Pictures\Holland_Mai_2011\IMGP0129-2.jpg
+[     6435874] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0129-2.jpg
+Size: 6451819
+[     6451819] Z:\Family Pictures\.Picasa3Temp\IMG_1915.JPG
+[     6451819] Z:\Family Pictures\Lis Zoe Anne\IMG_1915.JPG
+Size: 6456065
+[     6456065] Z:\Family Pictures\Holland_Mai_2011\IMGP0245.jpg
+[     6456065] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0245.jpg
+Size: 6462194
+[     6462194] Z:\Family Pictures\Holland_Mai_2011\IMGP0172.jpg
+[     6462194] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0172.jpg
+Size: 6475062
+[     6475062] Z:\Family Pictures\.Picasa3Temp\IMG_1918.JPG
+[     6475062] Z:\Family Pictures\Lis Zoe Anne\IMG_1918.JPG
+Size: 6475578
+[     6475578] Z:\Family Pictures\Holland_Mai_2011\IMGP0254.jpg
+[     6475578] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0254.jpg
+Size: 6482502
+[     6482502] Z:\Family Pictures\Holland_Mai_2011\IMGP0038.jpg
+[     6482502] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0038.jpg
+Size: 6493312
+[     6493312] Z:\Family Pictures\Holland_Mai_2011\IMGP0241.jpg
+[     6493312] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0241.jpg
+Size: 6495722
+[     6495722] Z:\Family Pictures\Holland_Mai_2011\IMGP0259.jpg
+[     6495722] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0259.jpg
+Size: 6522024
+[     6522024] Z:\Family Pictures\Holland_Mai_2011\IMGP0276.jpg
+[     6522024] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0276.jpg
+Size: 6524984
+[     6524984] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_0083.JPG
+[     6524984] Z:\Family Pictures\LKB 2011\6-2-2011 14-30-52.JPG
+Size: 6538458
+[     6538458] Z:\Family Pictures\Holland_Mai_2011\IMGP0384.jpg
+[     6538458] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0384.jpg
+Size: 6557043
+[     6557043] Z:\Family Pictures\Holland_Mai_2011\IMGP0090-2.jpg
+[     6557043] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0090-2.jpg
+Size: 6608827
+[     6608827] Z:\Family Pictures\Holland_Mai_2011\IMGP0437.jpg
+[     6608827] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0437.jpg
+Size: 6649654
+[     6649654] Z:\Family Pictures\Backup Camera Groot 20150502\100CANON\IMG_2941.JPG
+[     6649654] Z:\Family Pictures\Lente met dieren 2014\IMG_8568.JPG
+Size: 6664979
+[     6664979] Z:\Family Pictures\Holland_Mai_2011\IMGP0273.jpg
+[     6664979] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0273.jpg
+Size: 6690705
+[     6690705] Z:\Family Pictures\Holland_Mai_2011\IMGP0216.jpg
+[     6690705] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0216.jpg
+Size: 6701173
+[     6701173] Z:\Family Pictures\.Picasa3Temp\IMG_2041.JPG
+[     6701173] Z:\Family Pictures\Kerst Tangram 2014\IMG_2041.JPG
+Size: 6709075
+[     6709075] Z:\Family Pictures\Holland_Mai_2011\IMGP0093.jpg
+[     6709075] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0093.jpg
+Size: 6731304
+[     6731304] Z:\Family Pictures\Holland_Mai_2011\IMGP0275.jpg
+[     6731304] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0275.jpg
+Size: 6738879
+[     6738879] Z:\Family Pictures\Holland_Mai_2011\IMGP0266.jpg
+[     6738879] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0266.jpg
+Size: 6743245
+[     6743245] Z:\Family Pictures\Holland_Mai_2011\IMGP0250.jpg
+[     6743245] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0250.jpg
+Size: 6788232
+[     6788232] Z:\Family Pictures\Holland_Mai_2011\IMGP0294.jpg
+[     6788232] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0294.jpg
+Size: 6817077
+[     6817077] Z:\Family Pictures\Holland_Mai_2011\IMGP0238.jpg
+[     6817077] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0238.jpg
+Size: 6823782
+[     6823782] Z:\Family Pictures\.Picasa3Temp\IMG_2035.JPG
+[     6823782] Z:\Family Pictures\Kat en hond\IMG_2035.JPG
+Size: 6840062
+[     6840062] Z:\Family Pictures\J6E1 Hockey Teambuilding Sessie\IMG_2974.JPG
+[     6840062] Z:\Family Pictures\Kippen april 2014\IMG_8724.JPG
+Size: 6841029
+[     6841029] Z:\Family Pictures\Holland_Mai_2011\IMGP0386.jpg
+[     6841029] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0386.jpg
+Size: 6850159
+[     6850159] Z:\Family Pictures\Holland_Mai_2011\IMGP0247.jpg
+[     6850159] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0247.jpg
+Size: 6892704
+[     6892704] Z:\Family Pictures\Holland_Mai_2011\IMGP0442.jpg
+[     6892704] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0442.jpg
+Size: 6902901
+[     6902901] Z:\Family Pictures\Holland_Mai_2011\IMGP0164-2.jpg
+[     6902901] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0164-2.jpg
+Size: 6907272
+[     6907272] Z:\Family Pictures\.Picasa3Temp\IMG_2043.JPG
+[     6907272] Z:\Family Pictures\Kerst Tangram 2014\IMG_2043.JPG
+Size: 6921414
+[     6921414] Z:\Family Pictures\Holland_Mai_2011\IMGP0292.jpg
+[     6921414] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0292.jpg
+Size: 6935950
+[     6935950] Z:\Family Pictures\Holland_Mai_2011\IMGP0236.jpg
+[     6935950] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0236.jpg
+Size: 6943572
+[     6943572] Z:\Family Pictures\Camera Export 2014-07-24\101CANON\IMG_0118.JPG
+[     6943572] Z:\Family Pictures\Zomervakantie 2015\IMG_5375.JPG
+Size: 7037796
+[     7037796] Z:\Family Pictures\Holland_Mai_2011\IMGP0162.jpg
+[     7037796] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0162.jpg
+Size: 7052441
+[     7052441] Z:\Family Pictures\Holland_Mai_2011\IMGP0303.jpg
+[     7052441] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0303.jpg
+Size: 7075416
+[     7075416] Z:\Family Pictures\Holland_Mai_2011\IMGP0302.jpg
+[     7075416] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0302.jpg
+Size: 7097246
+[     7097246] Z:\Family Pictures\.Picasa3Temp\IMG_2038.JPG
+[     7097246] Z:\Family Pictures\Plankenboom maken\IMG_2038.JPG
+Size: 7120981
+[     7120981] Z:\Family Pictures\Holland_Mai_2011\IMGP0424.jpg
+[     7120981] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0424.jpg
+Size: 7156933
+[     7156933] Z:\Family Pictures\Video Schier 2011\VIDEO0128.3gp
+[     7156933] Z:\Family Pictures\Videos Gaby Phone\VIDEO0128.3gp
+Size: 7223378
+[     7223378] Z:\Family Pictures\Holland_Mai_2011\IMGP0214.jpg
+[     7223378] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0214.jpg
+Size: 7230579
+[     7230579] Z:\Family Pictures\Holland_Mai_2011\IMGP0269.jpg
+[     7230579] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0269.jpg
+Size: 7273761
+[     7273761] Z:\Family Pictures\.Picasa3Temp\IMG_2040.JPG
+[     7273761] Z:\Family Pictures\Plankenboom maken\IMG_2040.JPG
+Size: 7308908
+[     7308908] Z:\Family Pictures\Holland_Mai_2011\IMGP0434.jpg
+[     7308908] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0434.jpg
+Size: 7356695
+[     7356695] Z:\Family Pictures\Holland_Mai_2011\IMGP0291.jpg
+[     7356695] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0291.jpg
+Size: 7457618
+[     7457618] Z:\Family Pictures\Holland_Mai_2011\IMGP0278.jpg
+[     7457618] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0278.jpg
+Size: 7463529
+[     7463529] Z:\Family Pictures\Holland_Mai_2011\IMGP0318.jpg
+[     7463529] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0318.jpg
+Size: 7511010
+[     7511010] Z:\Family Pictures\Holland_Mai_2011\IMGP0392.jpg
+[     7511010] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0392.jpg
+Size: 7564656
+[     7564656] Z:\Family Pictures\Holland_Mai_2011\IMGP0094-2.jpg
+[     7564656] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0094-2.jpg
+Size: 7727119
+[     7727119] Z:\Family Pictures\Holland_Mai_2011\IMGP0438.jpg
+[     7727119] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0438.jpg
+Size: 7782826
+[     7782826] Z:\Family Pictures\Holland_Mai_2011\IMGP0419.jpg
+[     7782826] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0419.jpg
+Size: 7875680
+[     7875680] Z:\Family Pictures\Holland_Mai_2011\IMGP0423.jpg
+[     7875680] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0423.jpg
+Size: 7878496
+[     7878496] Z:\Family Pictures\Holland_Mai_2011\IMGP0095.jpg
+[     7878496] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0095.jpg
+Size: 8073411
+[     8073411] Z:\Family Pictures\Holland_Mai_2011\IMGP0210.jpg
+[     8073411] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0210.jpg
+Size: 8171227
+[     8171227] Z:\Family Pictures\Holland_Mai_2011\IMGP0310.jpg
+[     8171227] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0310.jpg
+Size: 8172602
+[     8172602] Z:\Family Pictures\Holland_Mai_2011\IMGP0427.jpg
+[     8172602] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0427.jpg
+Size: 8241853
+[     8241853] Z:\Family Pictures\Holland_Mai_2011\IMGP0287.jpg
+[     8241853] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0287.jpg
+Size: 8253296
+[     8253296] Z:\Family Pictures\Holland_Mai_2011\IMGP0317.jpg
+[     8253296] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0317.jpg
+Size: 8292333
+[     8292333] Z:\Family Pictures\Holland_Mai_2011\IMGP0383.jpg
+[     8292333] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0383.jpg
+Size: 8323383
+[     8323383] Z:\Family Pictures\Holland_Mai_2011\IMGP0285.jpg
+[     8323383] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0285.jpg
+Size: 8405396
+[     8405396] Z:\Family Pictures\Holland_Mai_2011\IMGP0422.jpg
+[     8405396] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0422.jpg
+Size: 8409856
+[     8409856] Z:\Family Pictures\Holland_Mai_2011\IMGP0441.jpg
+[     8409856] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0441.jpg
+Size: 8560638
+[     8560638] Z:\Family Pictures\Holland_Mai_2011\IMGP0356.jpg
+[     8560638] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0356.jpg
+Size: 8642232
+[     8642232] Z:\Family Pictures\Holland_Mai_2011\IMGP0357.jpg
+[     8642232] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0357.jpg
+Size: 8673312
+[     8673312] Z:\Family Pictures\Holland_Mai_2011\IMGP0425.jpg
+[     8673312] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0425.jpg
+Size: 8946401
+[     8946401] Z:\Family Pictures\Holland_Mai_2011\IMGP0283.jpg
+[     8946401] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0283.jpg
+Size: 8950984
+[     8950984] Z:\Family Pictures\Holland_Mai_2011\IMGP0358.jpg
+[     8950984] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0358.jpg
+Size: 8985065
+[     8985065] Z:\Family Pictures\Holland_Mai_2011\IMGP0289.jpg
+[     8985065] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0289.jpg
+Size: 9411589
+[     9411589] Z:\Family Pictures\Holland_Mai_2011\IMGP0379.jpg
+[     9411589] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0379.jpg
+Size: 9476716
+[     9476716] Z:\Family Pictures\Holland_Mai_2011\IMGP0398.jpg
+[     9476716] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0398.jpg
+Size: 9510067
+[     9510067] Z:\Family Pictures\Holland_Mai_2011\IMGP0035.jpg
+[     9510067] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0035.jpg
+Size: 9529795
+[     9529795] Z:\Family Pictures\Holland_Mai_2011\IMGP0393.jpg
+[     9529795] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0393.jpg
+Size: 9793282
+[     9793282] Z:\Family Pictures\Holland_Mai_2011\IMGP0173-2.jpg
+[     9793282] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0173-2.jpg
+Size: 10682392
+[    10682392] Z:\Family Pictures\Holland_Mai_2011\IMGP0421.jpg
+[    10682392] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0421.jpg
+Size: 11010785
+[    11010785] Z:\Family Pictures\Holland_Mai_2011\IMGP0376.jpg
+[    11010785] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0376.jpg
+Size: 11325566
+[    11325566] Z:\Family Pictures\Holland_Mai_2011\IMGP0394.jpg
+[    11325566] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0394.jpg
+Size: 11609056
+[    11609056] Z:\Family Pictures\Holland_Mai_2011\IMGP0209.jpg
+[    11609056] Z:\Family Pictures\Uitgezochte fotos Vierhouten Christian\IMGP0209.jpg
+Size: 18077134
+[    18077134] Z:\Family Pictures\Video Schier 2011\VIDEO0126.3gp
+[    18077134] Z:\Family Pictures\Videos Gaby Phone\VIDEO0126.3gp
+Size: 24987555
+[    24987555] Z:\Family Pictures\Video Schier 2011\VIDEO0123.3gp
+[    24987555] Z:\Family Pictures\Videos Gaby Phone\VIDEO0123.3gp
+Size: 29498831
+[    29498831] Z:\Family Pictures\Video Schier 2011\VIDEO0122.3gp
+[    29498831] Z:\Family Pictures\Videos Gaby Phone\VIDEO0122.3gp
+Size: 47431224
+[    47431224] Z:\Family Pictures\Video Schier 2011\VIDEO0125.3gp
+[    47431224] Z:\Family Pictures\Videos Gaby Phone\VIDEO0125.3gp
+Size: 50754595
+[    50754595] Z:\Family Pictures\Video Schier 2011\VIDEO0127.3gp
+[    50754595] Z:\Family Pictures\Videos Gaby Phone\VIDEO0127.3gp
+

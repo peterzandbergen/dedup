@@ -13,9 +13,10 @@ func TestOne(t *testing.T) {
 }
 
 func TestFileInfoString(t *testing.T) {
-	var s = "testname"
+	var s = "[         100] testname"
 	fi := &FileInfo{
-		Name: s,
+		Name: "testname",
+		Size: 100,
 	}
 	if s != fi.String() {
 		t.Errorf("Exptected %s, got %s", s, fi.String())
